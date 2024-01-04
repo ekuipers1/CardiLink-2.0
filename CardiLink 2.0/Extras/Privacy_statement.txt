@@ -1,0 +1,56 @@
+CardiLink® REMOTE MONITORING SERVICE PRIVACY STATEMENT
+CardiLink ("us", "we" or "our") is committed to protecting and respecting your privacy. This Privacy Statement together with Cookie Statement, End User Licence Agreement and the documents referred to in them sets out the basis on which any personal data we collect from you or that you provide to us (“Data”) in connection with the Site at www.cardi-link.com (“Site”), the portal at www.cardi-link.cloud (“Portal”) and the CardiLink Remote Monitoring Service (“CardiLink Service”) will be processed by us. Please read this Privacy Statement carefully to understand our treatment and use of Data.
+
+For the purposes of the Data Protection Acts 1988 and 2003, and any subsequent amendment (the “Acts”), the data controller is CardiLink GmbH, a private limited company and registered in Germany (Registered Number HRB 15812) and having its office at Gebhardtstraße 28, 90762 Fürth.
+
+ACCEPTANCE OF THIS PRIVACY STATEMENT
+By using the Site and/or the Portal and/or CardiLink service and by disclosing your Data to us, you consent to the collection, storage, processing, use and disclosure of your Data by us as described in this Privacy Statement. If you do not agree with or are not comfortable with any aspect of this Privacy Statement, your only remedy is to discontinue using our Site and the CardiLink service. We reserve the right to modify this Privacy Statement at any time. Your continued use of any part of our Site and/or the CardiLink service following notification or posting of such changes will constitute your acceptance of those changes.
+
+In the event you have any concerns about the guidelines set forth in this Privacy Statement, please contact us at sales@cardi-link.com.
+
+INFORMATION WE MAY COLLECT FROM YOU
+We may collect and process the following Data about you: your personal information provided to create your CardiLink account and/or to order our products and services, the time, date and details of your visit to our Site and/or our Portal, information that you may provide by filling in forms on our Site and/or our Portal, which may from time to time include making an order, requesting information from us or submitting comments if you contact us we may keep a copy of that correspondence, if you meet with us we may keep information about this meeting and its contents, details of transactions you carry out through our Site and/or Portal, service usage data, device number, source and destination of IP addresses, location based data and the resources you access on our Site and/or our Portal and in connection with the CardiLink service. We store your shipping address so that we can process your order.
+
+WHERE WE STORE YOUR DATA
+Your Data will be stored and transferred within the European Economic Area (EEA).
+
+We are committed to protecting the security of your Data. We use a variety of security technologies and procedures to help protect your Data from unauthorised access and use. As effective as modern security practices are, no physical or electronic security system is entirely secure. The transmission of information via the internet is not completely secure. Although we will do our best to protect your Data, we cannot guarantee the security of your Data transmitted to our Site and/or our Portal. Any transmission of Data is at your own risk. Once we receive your Data, we will use appropriate security measures to seek to prevent unauthorised access. We will continue to revise policies and implement additional security features as new technologies become available. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our Portal including your CardiLink account, you are responsible for keeping that password confidential and secure. We ask you not to share your password with anyone.
+
+USE MADE OF YOUR DATA
+We may use your Data that we hold to:
+ensure that content from our Site and/or our Portal is presented in the most effective, responsive and compatible manner for you and for your computer or device;
+process orders and applications made by you;
+supply products and services ordered by you;
+carry out our obligations arising from any contracts entered into between you and us;
+produce any necessary invoices or billing statements;
+provide customer care services;
+improve our products and services that we provide to you;
+carry out statistical analysis and market research;
+serve our credit management purposes and to prevent bad debt;
+investigate any improper use of our products, services or the network;
+carry out activities necessary to the running of CardiLink’s business, including systems testing, network monitoring, staff training and quality control; and
+notify you about changes to our products and services.
+DISCLOSURE OF YOUR INFORMATION
+We consider your Data to be private and confidential. We may sometimes disclose your Data to agents or service providers appointed by us, to regulatory bodies, or to others who work for us in connection with the provision of products and/or services to you. We may access and/or disclose your Data if required to do so by law or in good faith and belief that such action is necessary to: (a) conform with the law or comply with legal process served on us; (b) protect and defend our rights or property including, without limitation the security and integrity of our network and systems; (c) act under exigent circumstances to protect the personal safety of customers, users of our services or members of the public; or (d) make searches about you at credit reference agencies to assist us in deciding whether to accept your subscription order or future orders. We may use a combination of credit scoring and/or automated decision-making systems when assessing your order. In the event that we sell or buy businesses or assets, we may disclose your Data to the prospective seller or buyer of such business or assets.
+
+LINKS TO OTHER SITES
+Our Site and/or our Portal may, from time to time, contain links to and from other websites and web platforms. If you follow a link to any of those websites or web platforms, please note that those websites and web platforms have their own privacy policies and that we do not accept any responsibility or liability for those policies. Please check those policies before you submit any personal data to those websites.
+
+ACCESS TO INFORMATION AND CORRECTION
+You may request in writing copies of your Data held by us as data controller. We will provide you with a copy of the Data held by us as soon as practicable and in any event not more than forty (40) days after the request in writing is received by us. There may be a charge to access your Data but it will not exceed €15.00. We may also request proof of identification to verify your access request. All access requests should be addressed to the Head of Data Protection at the email address below in our contact details.
+
+We endeavour to keep your Data accurate, complete and up to date. If your Data that we hold is inaccurate, you can let us know and we will make the necessary amendments, erase or block the relevant Data as you request and notify you within forty (40) days of your request that relevant action has been taken. All requests should be addressed to Head of Data Protection at the email address below in our contact details.
+
+We will only hold on to your Data for as long as necessary for the purposes of providing services to you, informing you of products or services offered by us in the future or as may be required by law.
+
+At any time, you may object to the processing of your Data by us, except when otherwise provided by applicable law, and may block specific uses of your Data by contacting us using the contact details below.
+
+SOFTWARE QUALITY
+The security and confidentiality of your personal data is extremely important to us. As no data transmission over the Internet can be guaranteed as 100% secure, we cannot ensure or warrant the security of any information that you transmit to us and you transfer the personal data at your own risk. We endeavour to use and keep under review appropriate technical and organisational measures (including staff training and awareness) in order to protect against unauthorised or unlawful processing of your personal data, including unauthorised destruction, alteration or disclosure or access. We shall only hold personal data for as long as is necessary or as required by law.
+
+CHANGES TO OUR PRIVACY STATEMENT
+We reserve the right to change this Privacy Statement at any time in our sole discretion. If we make changes, we will provide you with an updated version of this document so that you can see what information we gather, how we might use that information and in what circumstances we may disclose it. By continuing to use our Site and/or our Portal and/or the CardiLink service after we notify you about any such changes, you accept and agree to this Privacy Statement as modified.
+
+CONTACT US
+Questions, comments and requests regarding this Privacy Statement and the information we hold are welcome and should be addressed to the Head of Data Protection at support@cardi-link.com.
+

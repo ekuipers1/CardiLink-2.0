@@ -1,0 +1,1423 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 54;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		9F04406F28DB290400661916 /* DefibrillatorOverviewAddress.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F04406E28DB290400661916 /* DefibrillatorOverviewAddress.swift */; };
+		9F04407128DB41F100661916 /* DefibrillatorOverviewMessages.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F04407028DB41F100661916 /* DefibrillatorOverviewMessages.swift */; };
+		9F04407328DB441900661916 /* DefibrillatorOverviewSelfTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F04407228DB441900661916 /* DefibrillatorOverviewSelfTest.swift */; };
+		9F04407728DB480E00661916 /* DefibrillatorOverviewMovements.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F04407628DB480E00661916 /* DefibrillatorOverviewMovements.swift */; };
+		9F04407928DB49BF00661916 /* DefibrillatorOverviewBattery.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F04407828DB49BF00661916 /* DefibrillatorOverviewBattery.swift */; };
+		9F04407B28DB49F600661916 /* DefibrillatorOverviewCrucial.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F04407A28DB49F600661916 /* DefibrillatorOverviewCrucial.swift */; };
+		9F43F3AA28A3D83500A05560 /* DefibrillatorOverviewSettings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F43F3A928A3D83500A05560 /* DefibrillatorOverviewSettings.swift */; };
+		AA004E712603A28C00771763 /* CommHardware.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA004E702603A28C00771763 /* CommHardware.swift */; };
+		AA004E7526049C2400771763 /* CommSimCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA004E7426049C2400771763 /* CommSimCard.swift */; };
+		AA040A7325F219B300F2F4D7 /* CommGetsingleData.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA040A7225F219B300F2F4D7 /* CommGetsingleData.swift */; };
+		AA053582261211A500F8A7BA /* ListDataYellow.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA053581261211A500F8A7BA /* ListDataYellow.swift */; };
+		AA0647612A39C90700B44433 /* ImageFetcher.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA0647602A39C90700B44433 /* ImageFetcher.swift */; };
+		AA0647632A39F83500B44433 /* DefibrillatorOverviewPhotos.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA0647622A39F83500B44433 /* DefibrillatorOverviewPhotos.swift */; };
+		AA0C95BE26F48339007C98CA /* CommMainMenu_New.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA0C95BD26F48339007C98CA /* CommMainMenu_New.swift */; };
+		AA1359472AD3E19E003B43DF /* AED_Yellow.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA1359462AD3E19E003B43DF /* AED_Yellow.swift */; };
+		AA1359492AD3EBDD003B43DF /* AED_Red.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA1359482AD3EBDD003B43DF /* AED_Red.swift */; };
+		AA13594B2AD3ED63003B43DF /* AED_Blue.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA13594A2AD3ED63003B43DF /* AED_Blue.swift */; };
+		AA160D4C29C9D34500F298DC /* AvailData.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA160D4B29C9D34500F298DC /* AvailData.swift */; };
+		AA184C002A4EBD1800857C55 /* DefibrillatorOverviewAvailable.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA184BFF2A4EBD1800857C55 /* DefibrillatorOverviewAvailable.swift */; };
+		AA184C022A57EC6700857C55 /* DefibrillatorOverviewAddressViewHours.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA184C012A57EC6700857C55 /* DefibrillatorOverviewAddressViewHours.swift */; };
+		AA18C9592A8B67F4008E42C1 /* AD_212_AvaillabilityEndOverview.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA18C9582A8B67F4008E42C1 /* AD_212_AvaillabilityEndOverview.swift */; };
+		AA18C95B2A8BA0D0008E42C1 /* AD_212_ImagesUpdateEndOverview.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA18C95A2A8BA0D0008E42C1 /* AD_212_ImagesUpdateEndOverview.swift */; };
+		AA1D46B429B89EFF00ED6F12 /* AD_07_CardiaPairingOpenCover.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA1D46B329B89EFF00ED6F12 /* AD_07_CardiaPairingOpenCover.swift */; };
+		AA205FCF2A78FF0A007AFF33 /* AD_212_UpdateEndOverview.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA205FCE2A78FF0A007AFF33 /* AD_212_UpdateEndOverview.swift */; };
+		AA211F0229EEA15000CB75B2 /* AD_08_CardiaPairingStages.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA211F0129EEA15000CB75B2 /* AD_08_CardiaPairingStages.swift */; };
+		AA211F0E29F0295400CB75B2 /* AD_031_CardiaSerial_ScannerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA211F0D29F0295400CB75B2 /* AD_031_CardiaSerial_ScannerView.swift */; };
+		AA211F1029F0295C00CB75B2 /* CameraView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA211F0F29F0295C00CB75B2 /* CameraView.swift */; };
+		AA211F1529F0298700CB75B2 /* QRScannerDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA211F1329F0298700CB75B2 /* QRScannerDelegate.swift */; };
+		AA211F1629F0298700CB75B2 /* Permission.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA211F1429F0298700CB75B2 /* Permission.swift */; };
+		AA211F1829F0298D00CB75B2 /* Extensions+View.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA211F1729F0298D00CB75B2 /* Extensions+View.swift */; };
+		AA211F1A29F02EDA00CB75B2 /* ScannerSerialView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA211F1929F02EDA00CB75B2 /* ScannerSerialView.swift */; };
+		AA211F1E29F110BC00CB75B2 /* AD_02_CardiaSerialSelect.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA211F1D29F110BC00CB75B2 /* AD_02_CardiaSerialSelect.swift */; };
+		AA211F2029F12FFE00CB75B2 /* AD_19_ImagesSelectionOLD.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA211F1F29F12FFE00CB75B2 /* AD_19_ImagesSelectionOLD.swift */; };
+		AA23EF3329962543004AB805 /* ADIotManufacturer.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA23EF3229962543004AB805 /* ADIotManufacturer.swift */; };
+		AA23EF3829966FAE004AB805 /* NKADBLERed.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA23EF3729966FAE004AB805 /* NKADBLERed.swift */; };
+		AA23EF3C299A5B5B004AB805 /* AD_16_LocationAvailabilityTimes.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA23EF3B299A5B5B004AB805 /* AD_16_LocationAvailabilityTimes.swift */; };
+		AA2449E82AB834830033379F /* AD_04_VIVHC.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA2449E72AB834830033379F /* AD_04_VIVHC.swift */; };
+		AA2449EA2AB98A480033379F /* UserInfoDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA2449E92AB98A480033379F /* UserInfoDetailView.swift */; };
+		AA2449EC2AB9A97F0033379F /* VisualSettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA2449EB2AB9A97F0033379F /* VisualSettingsView.swift */; };
+		AA29ECE32AAF528500756E1C /* UserInfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA29ECE22AAF528500756E1C /* UserInfoView.swift */; };
+		AA313C6C27439FAA00387013 /* SelfTestMainMenuNK.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA313C6B27439FAA00387013 /* SelfTestMainMenuNK.swift */; };
+		AA313C6F2743A0D400387013 /* selfTestDataModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA313C6E2743A0D400387013 /* selfTestDataModel.swift */; };
+		AA313C712743A4DE00387013 /* selfTestJSONFetch.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA313C702743A4DE00387013 /* selfTestJSONFetch.swift */; };
+		AA31E64E29914CB5002C8232 /* AD_04_IotStart.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA31E64C29914CB5002C8232 /* AD_04_IotStart.swift */; };
+		AA31E64F29914CB5002C8232 /* ADIotDeviceInformation.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA31E64D29914CB5002C8232 /* ADIotDeviceInformation.swift */; };
+		AA3D6AAF25F0FCCA00E4020C /* CardiLink_2_0App.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA3D6AAE25F0FCCA00E4020C /* CardiLink_2_0App.swift */; };
+		AA3D6AB325F0FCF500E4020C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AA3D6AB225F0FCF500E4020C /* Assets.xcassets */; };
+		AA3D6AB625F0FCF500E4020C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AA3D6AB525F0FCF500E4020C /* Preview Assets.xcassets */; };
+		AA3D6AC725F1011400E4020C /* MainBackground.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA3D6AC125F1011300E4020C /* MainBackground.swift */; };
+		AA3D6AD825F1043200E4020C /* CustomButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA3D6AD725F1043200E4020C /* CustomButton.swift */; };
+		AA3D6ADB25F1047500E4020C /* MyColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA3D6ADA25F1047500E4020C /* MyColor.swift */; };
+		AA3D6ADF25F1051100E4020C /* BaseDataFetch.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA3D6ADE25F1051100E4020C /* BaseDataFetch.swift */; };
+		AA3D6AE225F1062E00E4020C /* Shapes.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA3D6AE125F1062E00E4020C /* Shapes.swift */; };
+		AA3D6AE625F107B200E4020C /* DefriDataFetch.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA3D6AE525F107B200E4020C /* DefriDataFetch.swift */; };
+		AA3D6AF425F1161000E4020C /* AED_Detailed.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA3D6AF325F1161000E4020C /* AED_Detailed.swift */; };
+		AA3D6B1025F11EEA00E4020C /* Privacy_statement.txt in Resources */ = {isa = PBXBuildFile; fileRef = AA3D6B0F25F11EEA00E4020C /* Privacy_statement.txt */; };
+		AA3D6B1525F138DA00E4020C /* BaseDataModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA3D6B1425F138DA00E4020C /* BaseDataModels.swift */; };
+		AA3D6B1825F13BA700E4020C /* ListDataModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA3D6B1725F13BA700E4020C /* ListDataModel.swift */; };
+		AA3D6B3225F166CA00E4020C /* CommDetailed.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA3D6B3125F166CA00E4020C /* CommDetailed.swift */; };
+		AA4163B62993BCA5009EAA56 /* AD_05_CardiaOnboarding.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA4163B52993BCA5009EAA56 /* AD_05_CardiaOnboarding.swift */; };
+		AA417CF027BE86EB003A9F78 /* MapDirectory.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA417CEE27BE86EA003A9F78 /* MapDirectory.swift */; };
+		AA417CF127BE86EB003A9F78 /* PlaceDefi.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA417CEF27BE86EB003A9F78 /* PlaceDefi.swift */; };
+		AA417CF327BFA787003A9F78 /* empty.json in Resources */ = {isa = PBXBuildFile; fileRef = AA417CF227BFA787003A9F78 /* empty.json */; };
+		AA44D8022AE67224000A2803 /* Countries.txt in Resources */ = {isa = PBXBuildFile; fileRef = AA44D8012AE67224000A2803 /* Countries.txt */; };
+		AA4655C12B0660F2009FF899 /* DefiGetsingleData.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA4655C02B0660F2009FF899 /* DefiGetsingleData.swift */; };
+		AA4655C52B0E5B24009FF899 /* DefiBaseData.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA4655C42B0E5B24009FF899 /* DefiBaseData.swift */; };
+		AA4655C72B0E63A4009FF899 /* InfoPlist.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = AA4655C62B0E63A4009FF899 /* InfoPlist.xcstrings */; };
+		AA4655C92B0E63A4009FF899 /* Localizable.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = AA4655C82B0E63A4009FF899 /* Localizable.xcstrings */; };
+		AA4781B92A2872F2002F95DA /* AD_02_NKSerialSelect_Type.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA4781B82A2872F2002F95DA /* AD_02_NKSerialSelect_Type.swift */; };
+		AA47DBA62A0926A5004328D5 /* NavigationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA47DBA52A0926A5004328D5 /* NavigationManager.swift */; };
+		AA47DBA82A092704004328D5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA47DBA72A092704004328D5 /* ContentView.swift */; };
+		AA4AF345294CB4EA00DD4F63 /* AddrStruct.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA4AF344294CB4EA00DD4F63 /* AddrStruct.swift */; };
+		AA4AF35B294CB65800DD4F63 /* AD_18_LocationImages.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA4AF34A294CB65800DD4F63 /* AD_18_LocationImages.swift */; };
+		AA4AF35C294CB65800DD4F63 /* AD_22_LocationEnd.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA4AF34B294CB65800DD4F63 /* AD_22_LocationEnd.swift */; };
+		AA4AF35D294CB65800DD4F63 /* AD_13_LocationMap.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA4AF34C294CB65800DD4F63 /* AD_13_LocationMap.swift */; };
+		AA4AF35F294CB65800DD4F63 /* AD_14_LocationAdditional.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA4AF34E294CB65800DD4F63 /* AD_14_LocationAdditional.swift */; };
+		AA4AF362294CB65800DD4F63 /* AD_122_LocationAddress.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA4AF351294CB65800DD4F63 /* AD_122_LocationAddress.swift */; };
+		AA4AF363294CB65800DD4F63 /* AD_121_LocationPosition.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA4AF352294CB65800DD4F63 /* AD_121_LocationPosition.swift */; };
+		AA4AF365294CB65800DD4F63 /* AD_17_LocationAvailabilityTimesOverview.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA4AF354294CB65800DD4F63 /* AD_17_LocationAvailabilityTimesOverview.swift */; };
+		AA4AF367294CB65800DD4F63 /* AD_01_Intro.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA4AF356294CB65800DD4F63 /* AD_01_Intro.swift */; };
+		AA4AF368294CB65800DD4F63 /* AD_11_LocationMainScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA4AF357294CB65800DD4F63 /* AD_11_LocationMainScreen.swift */; };
+		AA4AF369294CB65800DD4F63 /* AD_20_LocationShareData.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA4AF358294CB65800DD4F63 /* AD_20_LocationShareData.swift */; };
+		AA4AF36A294CB65800DD4F63 /* AD_15_LocationAvailability.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA4AF359294CB65800DD4F63 /* AD_15_LocationAvailability.swift */; };
+		AA4AF36F294CB68D00DD4F63 /* AD_10_CardiaPairingCheck.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA4AF36D294CB68D00DD4F63 /* AD_10_CardiaPairingCheck.swift */; };
+		AA4AF377294CB69D00DD4F63 /* NKADBLECheckStatus.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA4AF371294CB69D00DD4F63 /* NKADBLECheckStatus.swift */; };
+		AA4AF379294CB69D00DD4F63 /* NKADBLEOnboarding.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA4AF373294CB69D00DD4F63 /* NKADBLEOnboarding.swift */; };
+		AA4AF37B294CB69D00DD4F63 /* NKADBLEGreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA4AF375294CB69D00DD4F63 /* NKADBLEGreen.swift */; };
+		AA4AF37C294CB69D00DD4F63 /* AD_06_OnboardingPreSerial.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA4AF376294CB69D00DD4F63 /* AD_06_OnboardingPreSerial.swift */; };
+		AA4EEE0A25FA280800A2BE7F /* ServiceTicketData.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA4EEE0925FA280800A2BE7F /* ServiceTicketData.swift */; };
+		AA4F71552702240A0005491D /* HardwareDataModel_Defi.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA4F71542702240A0005491D /* HardwareDataModel_Defi.swift */; };
+		AA51D9FA2A7BBCE800B4F534 /* AD_212_AddressUpdateEndOverview.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA51D9F92A7BBCE800B4F534 /* AD_212_AddressUpdateEndOverview.swift */; };
+		AA55DED929C3370800A5622F /* AD_21_EndOverview.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA55DED829C3370800A5622F /* AD_21_EndOverview.swift */; };
+		AA597CCA29B8D61C00B851BA /* AD_11_CardiaPairingRedGreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA597CC929B8D61C00B851BA /* AD_11_CardiaPairingRedGreen.swift */; };
+		AA5B9D4D2613191A00016CA0 /* ListDataRed.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA5B9D4C2613191A00016CA0 /* ListDataRed.swift */; };
+		AA65165C2AEAAB6C0081D05A /* AD_032_CardiaSerial_Type.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA65165B2AEAAB6C0081D05A /* AD_032_CardiaSerial_Type.swift */; };
+		AA68B3342A0E2ACA00023AC2 /* BaseMessagesData.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA68B3332A0E2ACA00023AC2 /* BaseMessagesData.swift */; };
+		AA69324A2A3C4FD40062B0DC /* ADNKPairingStages.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA6932492A3C4FD40062B0DC /* ADNKPairingStages.swift */; };
+		AA6A13E325FB5EE300FAFD96 /* LocationModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA6A13E225FB5EE300FAFD96 /* LocationModel.swift */; };
+		AA6E2CA62A72C60A00161922 /* ListDataBlue.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA6E2CA52A72C60A00161922 /* ListDataBlue.swift */; };
+		AA71F525289268810027A34D /* AED_Overview.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA71F524289268810027A34D /* AED_Overview.swift */; };
+		AA77228025F6173200AFB43A /* ServiceGetsingleData.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA77227F25F6173200AFB43A /* ServiceGetsingleData.swift */; };
+		AA77228E25F7C4D600AFB43A /* MessagesData.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA77228D25F7C4D600AFB43A /* MessagesData.swift */; };
+		AA7A8FA12A936DB000F517E9 /* XXImageTester2.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA7A8FA02A936DB000F517E9 /* XXImageTester2.swift */; };
+		AA7C28992AB088990082F079 /* AboutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA7C28982AB088990082F079 /* AboutView.swift */; };
+		AA7C289B2AB093960082F079 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA7C289A2AB093960082F079 /* SettingsView.swift */; };
+		AA7D8C472AB06DD7007C057A /* ChangePasswordView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA7D8C462AB06DD7007C057A /* ChangePasswordView.swift */; };
+		AA82B3A126EE535F00F0F0B7 /* DefiDataModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA82B3A026EE535F00F0F0B7 /* DefiDataModel.swift */; };
+		AA884CE52A9DF66200BEEBF0 /* CASLogin.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA884CE42A9DF66200BEEBF0 /* CASLogin.swift */; };
+		AA884CE72A9DF7C700BEEBF0 /* PortalSelector.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA884CE62A9DF7C700BEEBF0 /* PortalSelector.swift */; };
+		AA88861E275641A2009D5B13 /* MessagesDetailedBlocksNK.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA88861D275641A2009D5B13 /* MessagesDetailedBlocksNK.swift */; };
+		AA88862027568386009D5B13 /* MessagesMainMenuCommNK.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA88861F27568386009D5B13 /* MessagesMainMenuCommNK.swift */; };
+		AA8886282757D76E009D5B13 /* MessageDataListDefi.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA8886272757D76E009D5B13 /* MessageDataListDefi.swift */; };
+		AA88862A2757D7A6009D5B13 /* MessageDataListComm.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA8886292757D7A6009D5B13 /* MessageDataListComm.swift */; };
+		AA8C2273271413BE0094D500 /* MapViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA8C2272271413BD0094D500 /* MapViewModel.swift */; };
+		AA8E9CB4286C34DD0076D448 /* emptymove.json in Resources */ = {isa = PBXBuildFile; fileRef = AA8E9CB3286C34DC0076D448 /* emptymove.json */; };
+		AA8E9CB6286C35C10076D448 /* MapviewMove.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA8E9CB5286C35C10076D448 /* MapviewMove.swift */; };
+		AA8E9CB8286C371E0076D448 /* MapviewMoveUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA8E9CB7286C371E0076D448 /* MapviewMoveUI.swift */; };
+		AA8E9CBA286C3AC70076D448 /* MovementData.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA8E9CB9286C3AC70076D448 /* MovementData.swift */; };
+		AA9324FA2A96606B0089EC74 /* AD_19_ImagesSelection.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA9324F92A96606B0089EC74 /* AD_19_ImagesSelection.swift */; };
+		AA9324FE2A98A1770089EC74 /* AD_04_NKHC.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA9324FD2A98A1770089EC74 /* AD_04_NKHC.swift */; };
+		AA96734A27297737003E98A8 /* NKBT_Connected.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA96734927297736003E98A8 /* NKBT_Connected.swift */; };
+		AA9D049326D387DC004A253E /* LocationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA9D049226D387DC004A253E /* LocationManager.swift */; };
+		AAA175372AE1570C009FBE10 /* AD_02_VivestSerialSelect.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAA175362AE1570C009FBE10 /* AD_02_VivestSerialSelect.swift */; };
+		AAA175392AE16368009FBE10 /* AD_031_VivestSerial_ScannerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAA175382AE16368009FBE10 /* AD_031_VivestSerial_ScannerView.swift */; };
+		AAA1753B2AE1637A009FBE10 /* AD_031_VivestSerial_Type.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAA1753A2AE1637A009FBE10 /* AD_031_VivestSerial_Type.swift */; };
+		AAAA0B652A43028600ECD36F /* DeviceAvailabilityViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAAA0B642A43028600ECD36F /* DeviceAvailabilityViewModel.swift */; };
+		AAAA0B692A49C79900ECD36F /* DefibrillatorOverviewAddressAddHours.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAAA0B682A49C79900ECD36F /* DefibrillatorOverviewAddressAddHours.swift */; };
+		AAAB5641270B379900DB467F /* NKBT_Serial.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAAB5640270B379900DB467F /* NKBT_Serial.swift */; };
+		AAAC867D26B7E93E00B2329E /* ListDataGreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAAC867C26B7E93E00B2329E /* ListDataGreen.swift */; };
+		AAACF61629B251E200AD4FA4 /* GrayNotMonitoredData.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAACF61529B251E200AD4FA4 /* GrayNotMonitoredData.swift */; };
+		AAACF61829B5D80600AD4FA4 /* ListDataGray.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAACF61729B5D80600AD4FA4 /* ListDataGray.swift */; };
+		AAAF6FA72A865BBC0072109A /* AD_212_AddressAdditionalUpdateEndOverview.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAAF6FA62A865BBC0072109A /* AD_212_AddressAdditionalUpdateEndOverview.swift */; };
+		AAAF835926F3870600F11510 /* CommDataList.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAAF835826F3870600F11510 /* CommDataList.swift */; };
+		AAB3AFF42748031900380AEB /* MessagesMainMenuNK.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAB3AFF32748031900380AEB /* MessagesMainMenuNK.swift */; };
+		AAB727FA2AC1C76D00304801 /* AED_Gray.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAB727F92AC1C76D00304801 /* AED_Gray.swift */; };
+		AAB727FC2AC1C82800304801 /* AED_GeoLocation.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAB727FB2AC1C82800304801 /* AED_GeoLocation.swift */; };
+		AAB8667529D5721B000EA609 /* ADNKPairingOpenCover.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAB8667429D5721B000EA609 /* ADNKPairingOpenCover.swift */; };
+		AAB8667729D57237000EA609 /* ADNKPairingCloseCover.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAB8667629D57237000EA609 /* ADNKPairingCloseCover.swift */; };
+		AABBD6B62AD6937F0029C4D3 /* SearchModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = AABBD6B52AD6937F0029C4D3 /* SearchModel.swift */; };
+		AABBD6B92AD6941B0029C4D3 /* SearchFetch.swift in Sources */ = {isa = PBXBuildFile; fileRef = AABBD6B82AD6941B0029C4D3 /* SearchFetch.swift */; };
+		AABBF5822ADD16BA00350777 /* DeadEndView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AABBF5812ADD16BA00350777 /* DeadEndView.swift */; };
+		AABBF5842ADD30EB00350777 /* NotificationModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = AABBF5832ADD30EB00350777 /* NotificationModel.swift */; };
+		AABC110A2876E189008441BD /* CardiExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = AABC11092876E189008441BD /* CardiExtensions.swift */; };
+		AAC8EF7C2AC6E56C005FF771 /* AED_Green.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAC8EF7B2AC6E56C005FF771 /* AED_Green.swift */; };
+		AACC184F2AC1CCCB003DD5E0 /* AED_Hardware.swift in Sources */ = {isa = PBXBuildFile; fileRef = AACC184E2AC1CCCB003DD5E0 /* AED_Hardware.swift */; };
+		AACC18522AC1CFA8003DD5E0 /* AED_Models.swift in Sources */ = {isa = PBXBuildFile; fileRef = AACC18512AC1CFA8003DD5E0 /* AED_Models.swift */; };
+		AACECCF2270D8A4C00756C36 /* HardwareDataModel_Comm.swift in Sources */ = {isa = PBXBuildFile; fileRef = AACECCF1270D8A4B00756C36 /* HardwareDataModel_Comm.swift */; };
+		AACECCF4270DD13000756C36 /* GeoLocation.swift in Sources */ = {isa = PBXBuildFile; fileRef = AACECCF3270DD13000756C36 /* GeoLocation.swift */; };
+		AAD34AED2AA2197C004345F1 /* GetData.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAD34AEC2AA2197C004345F1 /* GetData.swift */; };
+		AAD34AEF2AA2198D004345F1 /* SaveData.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAD34AEE2AA2198D004345F1 /* SaveData.swift */; };
+		AAD34AF12AA22F16004345F1 /* Dashboard.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAD34AF02AA22F16004345F1 /* Dashboard.swift */; };
+		AAD8640A2615DA4E00DA1462 /* ListDataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAD864092615DA4E00DA1462 /* ListDataService.swift */; };
+		AAE0FFBC2747D6EB00A40417 /* SIMDataModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAE0FFBB2747D6EB00A40417 /* SIMDataModel.swift */; };
+		AAE2C20D273E8C61008544CB /* MessagesDataFetch.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAE2C20C273E8C61008544CB /* MessagesDataFetch.swift */; };
+		AAE46942274EAF8F00C621FD /* MessagesDetailedNK.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAE46941274EAF8F00C621FD /* MessagesDetailedNK.swift */; };
+		AAE54B2D2798475500DE6732 /* FirebaseAnalytics in Frameworks */ = {isa = PBXBuildFile; productRef = AAE54B2C2798475500DE6732 /* FirebaseAnalytics */; };
+		AAE54B2F2798475500DE6732 /* FirebaseMessaging in Frameworks */ = {isa = PBXBuildFile; productRef = AAE54B2E2798475500DE6732 /* FirebaseMessaging */; };
+		AAE765D92AB1C2DA009D01D9 /* AEDSearch.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAE765D82AB1C2DA009D01D9 /* AEDSearch.swift */; };
+		AAE831BC29CC725000FA587D /* AD_09_CardiaPairingCloseCover.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAE831BB29CC725000FA587D /* AD_09_CardiaPairingCloseCover.swift */; };
+		AAE85C17272AFEEB00CB6EC5 /* BluetoothManger.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAE85C16272AFEEB00CB6EC5 /* BluetoothManger.swift */; };
+		AAEE7D9E25F8C182001E03A1 /* SelfTestsData.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAEE7D9D25F8C182001E03A1 /* SelfTestsData.swift */; };
+		AAEE7DA925F9225B001E03A1 /* ForgotPassword.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAEE7DA825F9225B001E03A1 /* ForgotPassword.swift */; };
+		AAEF778A276A177A00844214 /* Alamofire in Frameworks */ = {isa = PBXBuildFile; productRef = AAEF7789276A177A00844214 /* Alamofire */; };
+		AAEF7790276A180600844214 /* SwiftyJSON in Frameworks */ = {isa = PBXBuildFile; productRef = AAEF778F276A180600844214 /* SwiftyJSON */; };
+		AAF0354E2A0BCE5F0022AF5B /* BaseMapData.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAF0354D2A0BCE5F0022AF5B /* BaseMapData.swift */; };
+		AAF035502A0BCFC80022AF5B /* MapViewGPS.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAF0354F2A0BCFC80022AF5B /* MapViewGPS.swift */; };
+		AAF1D5402AEAA1F200F5BFAF /* AD_02_PrimedicSerialSelect.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAF1D53F2AEAA1F100F5BFAF /* AD_02_PrimedicSerialSelect.swift */; };
+		AAF1D5422AEAA21200F5BFAF /* AD_031_PrimedicSerial_ScannerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAF1D5412AEAA21200F5BFAF /* AD_031_PrimedicSerial_ScannerView.swift */; };
+		AAF1D5442AEAA22500F5BFAF /* AD_031_PrimedicSerial_Type.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAF1D5432AEAA22500F5BFAF /* AD_031_PrimedicSerial_Type.swift */; };
+		AAFDAEDD2AA5FF01001B7653 /* MapViewDashboard.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAFDAEDC2AA5FF01001B7653 /* MapViewDashboard.swift */; };
+		AAFEF4C7274BB37F00BA7EF0 /* MessagesDataNK.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAFEF4C6274BB37F00BA7EF0 /* MessagesDataNK.swift */; };
+		AAFFCAA729B8E2160006BB6B /* ADCardiaMotionDetection.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAFFCAA629B8E2160006BB6B /* ADCardiaMotionDetection.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		9F04406E28DB290400661916 /* DefibrillatorOverviewAddress.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DefibrillatorOverviewAddress.swift; sourceTree = "<group>"; };
+		9F04407028DB41F100661916 /* DefibrillatorOverviewMessages.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DefibrillatorOverviewMessages.swift; sourceTree = "<group>"; };
+		9F04407228DB441900661916 /* DefibrillatorOverviewSelfTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DefibrillatorOverviewSelfTest.swift; sourceTree = "<group>"; };
+		9F04407628DB480E00661916 /* DefibrillatorOverviewMovements.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DefibrillatorOverviewMovements.swift; sourceTree = "<group>"; };
+		9F04407828DB49BF00661916 /* DefibrillatorOverviewBattery.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DefibrillatorOverviewBattery.swift; sourceTree = "<group>"; };
+		9F04407A28DB49F600661916 /* DefibrillatorOverviewCrucial.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DefibrillatorOverviewCrucial.swift; sourceTree = "<group>"; };
+		9F43F3A928A3D83500A05560 /* DefibrillatorOverviewSettings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DefibrillatorOverviewSettings.swift; sourceTree = "<group>"; };
+		AA004E702603A28C00771763 /* CommHardware.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = CommHardware.swift; path = "CardiLink 2.0/Communicators/CommHardware.swift"; sourceTree = SOURCE_ROOT; };
+		AA004E7426049C2400771763 /* CommSimCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommSimCard.swift; sourceTree = "<group>"; };
+		AA040A7225F219B300F2F4D7 /* CommGetsingleData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommGetsingleData.swift; sourceTree = "<group>"; };
+		AA053581261211A500F8A7BA /* ListDataYellow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListDataYellow.swift; sourceTree = "<group>"; };
+		AA0647602A39C90700B44433 /* ImageFetcher.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageFetcher.swift; sourceTree = "<group>"; };
+		AA0647622A39F83500B44433 /* DefibrillatorOverviewPhotos.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DefibrillatorOverviewPhotos.swift; sourceTree = "<group>"; };
+		AA0C95BD26F48339007C98CA /* CommMainMenu_New.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommMainMenu_New.swift; sourceTree = "<group>"; };
+		AA1359462AD3E19E003B43DF /* AED_Yellow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AED_Yellow.swift; sourceTree = "<group>"; };
+		AA1359482AD3EBDD003B43DF /* AED_Red.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AED_Red.swift; sourceTree = "<group>"; };
+		AA13594A2AD3ED63003B43DF /* AED_Blue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AED_Blue.swift; sourceTree = "<group>"; };
+		AA160D4B29C9D34500F298DC /* AvailData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AvailData.swift; sourceTree = "<group>"; };
+		AA184BFF2A4EBD1800857C55 /* DefibrillatorOverviewAvailable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DefibrillatorOverviewAvailable.swift; sourceTree = "<group>"; };
+		AA184C012A57EC6700857C55 /* DefibrillatorOverviewAddressViewHours.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DefibrillatorOverviewAddressViewHours.swift; sourceTree = "<group>"; };
+		AA18C9582A8B67F4008E42C1 /* AD_212_AvaillabilityEndOverview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AD_212_AvaillabilityEndOverview.swift; sourceTree = "<group>"; };
+		AA18C95A2A8BA0D0008E42C1 /* AD_212_ImagesUpdateEndOverview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AD_212_ImagesUpdateEndOverview.swift; sourceTree = "<group>"; };
+		AA1D46B329B89EFF00ED6F12 /* AD_07_CardiaPairingOpenCover.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AD_07_CardiaPairingOpenCover.swift; sourceTree = "<group>"; };
+		AA205FCE2A78FF0A007AFF33 /* AD_212_UpdateEndOverview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AD_212_UpdateEndOverview.swift; sourceTree = "<group>"; };
+		AA211F0129EEA15000CB75B2 /* AD_08_CardiaPairingStages.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AD_08_CardiaPairingStages.swift; sourceTree = "<group>"; };
+		AA211F0D29F0295400CB75B2 /* AD_031_CardiaSerial_ScannerView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AD_031_CardiaSerial_ScannerView.swift; sourceTree = "<group>"; };
+		AA211F0F29F0295C00CB75B2 /* CameraView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CameraView.swift; sourceTree = "<group>"; };
+		AA211F1329F0298700CB75B2 /* QRScannerDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QRScannerDelegate.swift; sourceTree = "<group>"; };
+		AA211F1429F0298700CB75B2 /* Permission.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Permission.swift; sourceTree = "<group>"; };
+		AA211F1729F0298D00CB75B2 /* Extensions+View.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Extensions+View.swift"; sourceTree = "<group>"; };
+		AA211F1929F02EDA00CB75B2 /* ScannerSerialView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScannerSerialView.swift; sourceTree = "<group>"; };
+		AA211F1D29F110BC00CB75B2 /* AD_02_CardiaSerialSelect.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AD_02_CardiaSerialSelect.swift; sourceTree = "<group>"; };
+		AA211F1F29F12FFE00CB75B2 /* AD_19_ImagesSelectionOLD.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AD_19_ImagesSelectionOLD.swift; sourceTree = "<group>"; };
+		AA23EF3229962543004AB805 /* ADIotManufacturer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ADIotManufacturer.swift; sourceTree = "<group>"; };
+		AA23EF3729966FAE004AB805 /* NKADBLERed.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NKADBLERed.swift; sourceTree = "<group>"; };
+		AA23EF3B299A5B5B004AB805 /* AD_16_LocationAvailabilityTimes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AD_16_LocationAvailabilityTimes.swift; sourceTree = "<group>"; };
+		AA2449E72AB834830033379F /* AD_04_VIVHC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AD_04_VIVHC.swift; sourceTree = "<group>"; };
+		AA2449E92AB98A480033379F /* UserInfoDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserInfoDetailView.swift; sourceTree = "<group>"; };
+		AA2449EB2AB9A97F0033379F /* VisualSettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VisualSettingsView.swift; sourceTree = "<group>"; };
+		AA29ECE22AAF528500756E1C /* UserInfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserInfoView.swift; sourceTree = "<group>"; };
+		AA313C6B27439FAA00387013 /* SelfTestMainMenuNK.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelfTestMainMenuNK.swift; sourceTree = "<group>"; };
+		AA313C6E2743A0D400387013 /* selfTestDataModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = selfTestDataModel.swift; sourceTree = "<group>"; };
+		AA313C702743A4DE00387013 /* selfTestJSONFetch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = selfTestJSONFetch.swift; sourceTree = "<group>"; };
+		AA31E64C29914CB5002C8232 /* AD_04_IotStart.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AD_04_IotStart.swift; sourceTree = "<group>"; };
+		AA31E64D29914CB5002C8232 /* ADIotDeviceInformation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ADIotDeviceInformation.swift; sourceTree = "<group>"; };
+		AA3D6AAB25F0FCC900E4020C /* CardiLink 2.0.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "CardiLink 2.0.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		AA3D6AAE25F0FCCA00E4020C /* CardiLink_2_0App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardiLink_2_0App.swift; sourceTree = "<group>"; };
+		AA3D6AB225F0FCF500E4020C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		AA3D6AB525F0FCF500E4020C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		AA3D6AB725F0FCF500E4020C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AA3D6AC125F1011300E4020C /* MainBackground.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainBackground.swift; sourceTree = "<group>"; };
+		AA3D6AD725F1043200E4020C /* CustomButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomButton.swift; sourceTree = "<group>"; };
+		AA3D6ADA25F1047500E4020C /* MyColor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyColor.swift; sourceTree = "<group>"; };
+		AA3D6ADE25F1051100E4020C /* BaseDataFetch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseDataFetch.swift; sourceTree = "<group>"; };
+		AA3D6AE125F1062E00E4020C /* Shapes.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Shapes.swift; sourceTree = "<group>"; };
+		AA3D6AE525F107B200E4020C /* DefriDataFetch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DefriDataFetch.swift; sourceTree = "<group>"; };
+		AA3D6AF325F1161000E4020C /* AED_Detailed.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AED_Detailed.swift; sourceTree = "<group>"; };
+		AA3D6B0F25F11EEA00E4020C /* Privacy_statement.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Privacy_statement.txt; sourceTree = "<group>"; };
+		AA3D6B1425F138DA00E4020C /* BaseDataModels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseDataModels.swift; sourceTree = "<group>"; };
+		AA3D6B1725F13BA700E4020C /* ListDataModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListDataModel.swift; sourceTree = "<group>"; };
+		AA3D6B3125F166CA00E4020C /* CommDetailed.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommDetailed.swift; sourceTree = "<group>"; };
+		AA4163B52993BCA5009EAA56 /* AD_05_CardiaOnboarding.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AD_05_CardiaOnboarding.swift; sourceTree = "<group>"; };
+		AA417CEE27BE86EA003A9F78 /* MapDirectory.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MapDirectory.swift; sourceTree = "<group>"; };
+		AA417CEF27BE86EB003A9F78 /* PlaceDefi.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlaceDefi.swift; sourceTree = "<group>"; };
+		AA417CF227BFA787003A9F78 /* empty.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = empty.json; sourceTree = "<group>"; };
+		AA44D8012AE67224000A2803 /* Countries.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Countries.txt; sourceTree = "<group>"; };
+		AA4655C02B0660F2009FF899 /* DefiGetsingleData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DefiGetsingleData.swift; sourceTree = "<group>"; };
+		AA4655C42B0E5B24009FF899 /* DefiBaseData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DefiBaseData.swift; sourceTree = "<group>"; };
+		AA4655C62B0E63A4009FF899 /* InfoPlist.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = InfoPlist.xcstrings; sourceTree = "<group>"; };
+		AA4655C82B0E63A4009FF899 /* Localizable.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = Localizable.xcstrings; sourceTree = "<group>"; };
+		AA4781B82A2872F2002F95DA /* AD_02_NKSerialSelect_Type.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AD_02_NKSerialSelect_Type.swift; sourceTree = "<group>"; };
+		AA47DBA52A0926A5004328D5 /* NavigationManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NavigationManager.swift; sourceTree = "<group>"; };
+		AA47DBA72A092704004328D5 /* ContentView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		AA4AF344294CB4EA00DD4F63 /* AddrStruct.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddrStruct.swift; sourceTree = "<group>"; };
+		AA4AF34A294CB65800DD4F63 /* AD_18_LocationImages.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AD_18_LocationImages.swift; sourceTree = "<group>"; };
+		AA4AF34B294CB65800DD4F63 /* AD_22_LocationEnd.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AD_22_LocationEnd.swift; sourceTree = "<group>"; };
+		AA4AF34C294CB65800DD4F63 /* AD_13_LocationMap.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AD_13_LocationMap.swift; sourceTree = "<group>"; };
+		AA4AF34E294CB65800DD4F63 /* AD_14_LocationAdditional.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AD_14_LocationAdditional.swift; sourceTree = "<group>"; };
+		AA4AF351294CB65800DD4F63 /* AD_122_LocationAddress.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AD_122_LocationAddress.swift; sourceTree = "<group>"; };
+		AA4AF352294CB65800DD4F63 /* AD_121_LocationPosition.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AD_121_LocationPosition.swift; sourceTree = "<group>"; };
+		AA4AF354294CB65800DD4F63 /* AD_17_LocationAvailabilityTimesOverview.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AD_17_LocationAvailabilityTimesOverview.swift; sourceTree = "<group>"; };
+		AA4AF356294CB65800DD4F63 /* AD_01_Intro.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AD_01_Intro.swift; sourceTree = "<group>"; };
+		AA4AF357294CB65800DD4F63 /* AD_11_LocationMainScreen.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AD_11_LocationMainScreen.swift; sourceTree = "<group>"; };
+		AA4AF358294CB65800DD4F63 /* AD_20_LocationShareData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AD_20_LocationShareData.swift; sourceTree = "<group>"; };
+		AA4AF359294CB65800DD4F63 /* AD_15_LocationAvailability.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AD_15_LocationAvailability.swift; sourceTree = "<group>"; };
+		AA4AF36D294CB68D00DD4F63 /* AD_10_CardiaPairingCheck.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AD_10_CardiaPairingCheck.swift; sourceTree = "<group>"; };
+		AA4AF371294CB69D00DD4F63 /* NKADBLECheckStatus.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NKADBLECheckStatus.swift; sourceTree = "<group>"; };
+		AA4AF373294CB69D00DD4F63 /* NKADBLEOnboarding.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NKADBLEOnboarding.swift; sourceTree = "<group>"; };
+		AA4AF375294CB69D00DD4F63 /* NKADBLEGreen.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NKADBLEGreen.swift; sourceTree = "<group>"; };
+		AA4AF376294CB69D00DD4F63 /* AD_06_OnboardingPreSerial.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AD_06_OnboardingPreSerial.swift; sourceTree = "<group>"; };
+		AA4EEE0925FA280800A2BE7F /* ServiceTicketData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ServiceTicketData.swift; sourceTree = "<group>"; };
+		AA4F71542702240A0005491D /* HardwareDataModel_Defi.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HardwareDataModel_Defi.swift; sourceTree = "<group>"; };
+		AA51D9F92A7BBCE800B4F534 /* AD_212_AddressUpdateEndOverview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AD_212_AddressUpdateEndOverview.swift; sourceTree = "<group>"; };
+		AA55DED829C3370800A5622F /* AD_21_EndOverview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AD_21_EndOverview.swift; sourceTree = "<group>"; };
+		AA597CC929B8D61C00B851BA /* AD_11_CardiaPairingRedGreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AD_11_CardiaPairingRedGreen.swift; sourceTree = "<group>"; };
+		AA5B9D4C2613191A00016CA0 /* ListDataRed.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListDataRed.swift; sourceTree = "<group>"; };
+		AA65165B2AEAAB6C0081D05A /* AD_032_CardiaSerial_Type.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AD_032_CardiaSerial_Type.swift; sourceTree = "<group>"; };
+		AA68B3332A0E2ACA00023AC2 /* BaseMessagesData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseMessagesData.swift; sourceTree = "<group>"; };
+		AA6932492A3C4FD40062B0DC /* ADNKPairingStages.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ADNKPairingStages.swift; sourceTree = "<group>"; };
+		AA6A13E225FB5EE300FAFD96 /* LocationModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LocationModel.swift; sourceTree = "<group>"; };
+		AA6E2CA52A72C60A00161922 /* ListDataBlue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListDataBlue.swift; sourceTree = "<group>"; };
+		AA71F524289268810027A34D /* AED_Overview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AED_Overview.swift; sourceTree = "<group>"; };
+		AA77227F25F6173200AFB43A /* ServiceGetsingleData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ServiceGetsingleData.swift; sourceTree = "<group>"; };
+		AA77228D25F7C4D600AFB43A /* MessagesData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessagesData.swift; sourceTree = "<group>"; };
+		AA7A8FA02A936DB000F517E9 /* XXImageTester2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XXImageTester2.swift; sourceTree = "<group>"; };
+		AA7C28982AB088990082F079 /* AboutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutView.swift; sourceTree = "<group>"; };
+		AA7C289A2AB093960082F079 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		AA7D8C462AB06DD7007C057A /* ChangePasswordView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChangePasswordView.swift; sourceTree = "<group>"; };
+		AA82B3A026EE535F00F0F0B7 /* DefiDataModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DefiDataModel.swift; sourceTree = "<group>"; };
+		AA884CE42A9DF66200BEEBF0 /* CASLogin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CASLogin.swift; sourceTree = "<group>"; };
+		AA884CE62A9DF7C700BEEBF0 /* PortalSelector.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PortalSelector.swift; sourceTree = "<group>"; };
+		AA88861D275641A2009D5B13 /* MessagesDetailedBlocksNK.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessagesDetailedBlocksNK.swift; sourceTree = "<group>"; };
+		AA88861F27568386009D5B13 /* MessagesMainMenuCommNK.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessagesMainMenuCommNK.swift; sourceTree = "<group>"; };
+		AA8886272757D76E009D5B13 /* MessageDataListDefi.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessageDataListDefi.swift; sourceTree = "<group>"; };
+		AA8886292757D7A6009D5B13 /* MessageDataListComm.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessageDataListComm.swift; sourceTree = "<group>"; };
+		AA8C2272271413BD0094D500 /* MapViewModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MapViewModel.swift; sourceTree = "<group>"; };
+		AA8E9CB3286C34DC0076D448 /* emptymove.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = emptymove.json; sourceTree = "<group>"; };
+		AA8E9CB5286C35C10076D448 /* MapviewMove.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MapviewMove.swift; sourceTree = "<group>"; };
+		AA8E9CB7286C371E0076D448 /* MapviewMoveUI.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MapviewMoveUI.swift; sourceTree = "<group>"; };
+		AA8E9CB9286C3AC70076D448 /* MovementData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MovementData.swift; sourceTree = "<group>"; };
+		AA9324F92A96606B0089EC74 /* AD_19_ImagesSelection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AD_19_ImagesSelection.swift; sourceTree = "<group>"; };
+		AA9324FD2A98A1770089EC74 /* AD_04_NKHC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AD_04_NKHC.swift; sourceTree = "<group>"; };
+		AA96734927297736003E98A8 /* NKBT_Connected.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NKBT_Connected.swift; sourceTree = "<group>"; };
+		AA9D049226D387DC004A253E /* LocationManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationManager.swift; sourceTree = "<group>"; };
+		AAA175362AE1570C009FBE10 /* AD_02_VivestSerialSelect.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AD_02_VivestSerialSelect.swift; sourceTree = "<group>"; };
+		AAA175382AE16368009FBE10 /* AD_031_VivestSerial_ScannerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AD_031_VivestSerial_ScannerView.swift; sourceTree = "<group>"; };
+		AAA1753A2AE1637A009FBE10 /* AD_031_VivestSerial_Type.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AD_031_VivestSerial_Type.swift; sourceTree = "<group>"; };
+		AAAA0B642A43028600ECD36F /* DeviceAvailabilityViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeviceAvailabilityViewModel.swift; sourceTree = "<group>"; };
+		AAAA0B682A49C79900ECD36F /* DefibrillatorOverviewAddressAddHours.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DefibrillatorOverviewAddressAddHours.swift; sourceTree = "<group>"; };
+		AAAB5640270B379900DB467F /* NKBT_Serial.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NKBT_Serial.swift; sourceTree = "<group>"; };
+		AAAC867C26B7E93E00B2329E /* ListDataGreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListDataGreen.swift; sourceTree = "<group>"; };
+		AAACF61529B251E200AD4FA4 /* GrayNotMonitoredData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GrayNotMonitoredData.swift; sourceTree = "<group>"; };
+		AAACF61729B5D80600AD4FA4 /* ListDataGray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListDataGray.swift; sourceTree = "<group>"; };
+		AAAF6FA62A865BBC0072109A /* AD_212_AddressAdditionalUpdateEndOverview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AD_212_AddressAdditionalUpdateEndOverview.swift; sourceTree = "<group>"; };
+		AAAF835826F3870600F11510 /* CommDataList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommDataList.swift; sourceTree = "<group>"; };
+		AAB3AFF32748031900380AEB /* MessagesMainMenuNK.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessagesMainMenuNK.swift; sourceTree = "<group>"; };
+		AAB727F92AC1C76D00304801 /* AED_Gray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AED_Gray.swift; sourceTree = "<group>"; };
+		AAB727FB2AC1C82800304801 /* AED_GeoLocation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AED_GeoLocation.swift; sourceTree = "<group>"; };
+		AAB8667429D5721B000EA609 /* ADNKPairingOpenCover.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ADNKPairingOpenCover.swift; sourceTree = "<group>"; };
+		AAB8667629D57237000EA609 /* ADNKPairingCloseCover.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ADNKPairingCloseCover.swift; sourceTree = "<group>"; };
+		AABBD6B52AD6937F0029C4D3 /* SearchModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchModel.swift; sourceTree = "<group>"; };
+		AABBD6B82AD6941B0029C4D3 /* SearchFetch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchFetch.swift; sourceTree = "<group>"; };
+		AABBF5812ADD16BA00350777 /* DeadEndView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeadEndView.swift; sourceTree = "<group>"; };
+		AABBF5832ADD30EB00350777 /* NotificationModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationModel.swift; sourceTree = "<group>"; };
+		AABC11092876E189008441BD /* CardiExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardiExtensions.swift; sourceTree = "<group>"; };
+		AAC8EF7B2AC6E56C005FF771 /* AED_Green.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AED_Green.swift; sourceTree = "<group>"; };
+		AACC184E2AC1CCCB003DD5E0 /* AED_Hardware.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AED_Hardware.swift; sourceTree = "<group>"; };
+		AACC18512AC1CFA8003DD5E0 /* AED_Models.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AED_Models.swift; sourceTree = "<group>"; };
+		AACECCF1270D8A4B00756C36 /* HardwareDataModel_Comm.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HardwareDataModel_Comm.swift; sourceTree = "<group>"; };
+		AACECCF3270DD13000756C36 /* GeoLocation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeoLocation.swift; sourceTree = "<group>"; };
+		AAD34AEC2AA2197C004345F1 /* GetData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GetData.swift; sourceTree = "<group>"; };
+		AAD34AEE2AA2198D004345F1 /* SaveData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SaveData.swift; sourceTree = "<group>"; };
+		AAD34AF02AA22F16004345F1 /* Dashboard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dashboard.swift; sourceTree = "<group>"; };
+		AAD864092615DA4E00DA1462 /* ListDataService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListDataService.swift; sourceTree = "<group>"; };
+		AAE0FFBB2747D6EB00A40417 /* SIMDataModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SIMDataModel.swift; sourceTree = "<group>"; };
+		AAE2C20C273E8C61008544CB /* MessagesDataFetch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessagesDataFetch.swift; sourceTree = "<group>"; };
+		AAE46941274EAF8F00C621FD /* MessagesDetailedNK.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessagesDetailedNK.swift; sourceTree = "<group>"; };
+		AAE54B322798509700DE6732 /* CardiLink 2.0Release.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "CardiLink 2.0Release.entitlements"; sourceTree = "<group>"; };
+		AAE54B33279859A400DE6732 /* CardiLink 2.0Debug.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "CardiLink 2.0Debug.entitlements"; sourceTree = "<group>"; };
+		AAE765D82AB1C2DA009D01D9 /* AEDSearch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AEDSearch.swift; sourceTree = "<group>"; };
+		AAE831BB29CC725000FA587D /* AD_09_CardiaPairingCloseCover.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AD_09_CardiaPairingCloseCover.swift; sourceTree = "<group>"; };
+		AAE85C16272AFEEB00CB6EC5 /* BluetoothManger.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BluetoothManger.swift; sourceTree = "<group>"; };
+		AAEE7D9D25F8C182001E03A1 /* SelfTestsData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelfTestsData.swift; sourceTree = "<group>"; };
+		AAEE7DA825F9225B001E03A1 /* ForgotPassword.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForgotPassword.swift; sourceTree = "<group>"; };
+		AAF0354D2A0BCE5F0022AF5B /* BaseMapData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseMapData.swift; sourceTree = "<group>"; };
+		AAF0354F2A0BCFC80022AF5B /* MapViewGPS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewGPS.swift; sourceTree = "<group>"; };
+		AAF1D53F2AEAA1F100F5BFAF /* AD_02_PrimedicSerialSelect.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AD_02_PrimedicSerialSelect.swift; sourceTree = "<group>"; };
+		AAF1D5412AEAA21200F5BFAF /* AD_031_PrimedicSerial_ScannerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AD_031_PrimedicSerial_ScannerView.swift; sourceTree = "<group>"; };
+		AAF1D5432AEAA22500F5BFAF /* AD_031_PrimedicSerial_Type.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AD_031_PrimedicSerial_Type.swift; sourceTree = "<group>"; };
+		AAFDAEDC2AA5FF01001B7653 /* MapViewDashboard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewDashboard.swift; sourceTree = "<group>"; };
+		AAFEF4C6274BB37F00BA7EF0 /* MessagesDataNK.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessagesDataNK.swift; sourceTree = "<group>"; };
+		AAFFCAA629B8E2160006BB6B /* ADCardiaMotionDetection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ADCardiaMotionDetection.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		AA3D6AA825F0FCC800E4020C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AAE54B2F2798475500DE6732 /* FirebaseMessaging in Frameworks */,
+				AAEF7790276A180600844214 /* SwiftyJSON in Frameworks */,
+				AAEF778A276A177A00844214 /* Alamofire in Frameworks */,
+				AAE54B2D2798475500DE6732 /* FirebaseAnalytics in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		9F04406D28DB283C00661916 /* Overview */ = {
+			isa = PBXGroup;
+			children = (
+				AA71F524289268810027A34D /* AED_Overview.swift */,
+				AA184BFF2A4EBD1800857C55 /* DefibrillatorOverviewAvailable.swift */,
+				9F43F3A928A3D83500A05560 /* DefibrillatorOverviewSettings.swift */,
+				9F04407A28DB49F600661916 /* DefibrillatorOverviewCrucial.swift */,
+				9F04407828DB49BF00661916 /* DefibrillatorOverviewBattery.swift */,
+				9F04407628DB480E00661916 /* DefibrillatorOverviewMovements.swift */,
+				9F04407228DB441900661916 /* DefibrillatorOverviewSelfTest.swift */,
+				9F04407028DB41F100661916 /* DefibrillatorOverviewMessages.swift */,
+				9F04406E28DB290400661916 /* DefibrillatorOverviewAddress.swift */,
+				AAAA0B682A49C79900ECD36F /* DefibrillatorOverviewAddressAddHours.swift */,
+				AA184C012A57EC6700857C55 /* DefibrillatorOverviewAddressViewHours.swift */,
+				AAAA0B642A43028600ECD36F /* DeviceAvailabilityViewModel.swift */,
+				AA0647622A39F83500B44433 /* DefibrillatorOverviewPhotos.swift */,
+			);
+			path = Overview;
+			sourceTree = "<group>";
+		};
+		AA211F0529F0272100CB75B2 /* BarcodeScanner */ = {
+			isa = PBXGroup;
+			children = (
+				AA211F1229F0297800CB75B2 /* Helpers */,
+				AA211F1129F0297600CB75B2 /* Model */,
+				AA211F0C29F0294300CB75B2 /* View */,
+			);
+			path = BarcodeScanner;
+			sourceTree = "<group>";
+		};
+		AA211F0C29F0294300CB75B2 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				AA211F0F29F0295C00CB75B2 /* CameraView.swift */,
+				AA211F1929F02EDA00CB75B2 /* ScannerSerialView.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		AA211F1129F0297600CB75B2 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				AA211F1429F0298700CB75B2 /* Permission.swift */,
+				AA211F1329F0298700CB75B2 /* QRScannerDelegate.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		AA211F1229F0297800CB75B2 /* Helpers */ = {
+			isa = PBXGroup;
+			children = (
+				AA211F1729F0298D00CB75B2 /* Extensions+View.swift */,
+			);
+			path = Helpers;
+			sourceTree = "<group>";
+		};
+		AA23EF34299625D9004AB805 /* NonIoT */ = {
+			isa = PBXGroup;
+			children = (
+				AA31E64C29914CB5002C8232 /* AD_04_IotStart.swift */,
+				AA9324FD2A98A1770089EC74 /* AD_04_NKHC.swift */,
+				AA2449E72AB834830033379F /* AD_04_VIVHC.swift */,
+				AA23EF3229962543004AB805 /* ADIotManufacturer.swift */,
+				AA31E64D29914CB5002C8232 /* ADIotDeviceInformation.swift */,
+			);
+			path = NonIoT;
+			sourceTree = "<group>";
+		};
+		AA23EF39299683AE004AB805 /* Location */ = {
+			isa = PBXGroup;
+			children = (
+				AA4AF357294CB65800DD4F63 /* AD_11_LocationMainScreen.swift */,
+				AA4AF352294CB65800DD4F63 /* AD_121_LocationPosition.swift */,
+				AA4AF351294CB65800DD4F63 /* AD_122_LocationAddress.swift */,
+				AA4AF34C294CB65800DD4F63 /* AD_13_LocationMap.swift */,
+				AA4AF34E294CB65800DD4F63 /* AD_14_LocationAdditional.swift */,
+			);
+			path = Location;
+			sourceTree = "<group>";
+		};
+		AA23EF3A2996A008004AB805 /* Availability */ = {
+			isa = PBXGroup;
+			children = (
+				AA4AF359294CB65800DD4F63 /* AD_15_LocationAvailability.swift */,
+				AA23EF3B299A5B5B004AB805 /* AD_16_LocationAvailabilityTimes.swift */,
+				AA160D4B29C9D34500F298DC /* AvailData.swift */,
+			);
+			path = Availability;
+			sourceTree = "<group>";
+		};
+		AA2CBF2A272BF64A00FBB2F1 /* Bluetooth */ = {
+			isa = PBXGroup;
+			children = (
+				AAE85C16272AFEEB00CB6EC5 /* BluetoothManger.swift */,
+				AA96734927297736003E98A8 /* NKBT_Connected.swift */,
+				AAAB5640270B379900DB467F /* NKBT_Serial.swift */,
+			);
+			path = Bluetooth;
+			sourceTree = "<group>";
+		};
+		AA313C6D2743A09B00387013 /* SelfTest */ = {
+			isa = PBXGroup;
+			children = (
+				AA313C6E2743A0D400387013 /* selfTestDataModel.swift */,
+				AA313C702743A4DE00387013 /* selfTestJSONFetch.swift */,
+			);
+			path = SelfTest;
+			sourceTree = "<group>";
+		};
+		AA3D6AA225F0FCC800E4020C = {
+			isa = PBXGroup;
+			children = (
+				AA3D6AAD25F0FCC900E4020C /* CardiLink 2.0 */,
+				AA3D6AAC25F0FCC900E4020C /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		AA3D6AAC25F0FCC900E4020C /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				AA3D6AAB25F0FCC900E4020C /* CardiLink 2.0.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		AA3D6AAD25F0FCC900E4020C /* CardiLink 2.0 */ = {
+			isa = PBXGroup;
+			children = (
+				AAE54B33279859A400DE6732 /* CardiLink 2.0Debug.entitlements */,
+				AAE54B322798509700DE6732 /* CardiLink 2.0Release.entitlements */,
+				AA2CBF2A272BF64A00FBB2F1 /* Bluetooth */,
+				AA4AF348294CB63E00DD4F63 /* AddDevice */,
+				AA3D6B2525F146B300E4020C /* SelfTest */,
+				AA3D6B2125F145EB00E4020C /* Messages */,
+				AA3D6ADD25F104C800E4020C /* Data Fetch */,
+				AA3D6B1225F137B800E4020C /* Data Model */,
+				AA3D6AFD25F1168500E4020C /* Map */,
+				AA417CE927BE861E003A9F78 /* Map2.0 */,
+				AA3D6AF925F1164700E4020C /* Communicators */,
+				AA3D6AF125F110D400E4020C /* AED */,
+				AA3D6AE825F1084800E4020C /* Mainmenu */,
+				AA3D6ABE25F100E900E4020C /* Login */,
+				AA3D6AD625F1040D00E4020C /* Extras */,
+				AA3D6AAE25F0FCCA00E4020C /* CardiLink_2_0App.swift */,
+				AA47DBA52A0926A5004328D5 /* NavigationManager.swift */,
+				AA47DBA72A092704004328D5 /* ContentView.swift */,
+				AA3D6AB225F0FCF500E4020C /* Assets.xcassets */,
+				AA3D6AB725F0FCF500E4020C /* Info.plist */,
+				AA3D6AB425F0FCF500E4020C /* Preview Content */,
+			);
+			path = "CardiLink 2.0";
+			sourceTree = "<group>";
+		};
+		AA3D6AB425F0FCF500E4020C /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				AA3D6AB525F0FCF500E4020C /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		AA3D6ABE25F100E900E4020C /* Login */ = {
+			isa = PBXGroup;
+			children = (
+				AA884CE42A9DF66200BEEBF0 /* CASLogin.swift */,
+				AA884CE62A9DF7C700BEEBF0 /* PortalSelector.swift */,
+				AA3D6AC125F1011300E4020C /* MainBackground.swift */,
+				AAEE7DA825F9225B001E03A1 /* ForgotPassword.swift */,
+			);
+			path = Login;
+			sourceTree = "<group>";
+		};
+		AA3D6AD625F1040D00E4020C /* Extras */ = {
+			isa = PBXGroup;
+			children = (
+				AAD563982875B2EF00F40FA8 /* Json */,
+				AA4655C82B0E63A4009FF899 /* Localizable.xcstrings */,
+				AA4655C62B0E63A4009FF899 /* InfoPlist.xcstrings */,
+				AA44D8012AE67224000A2803 /* Countries.txt */,
+				AA3D6B0F25F11EEA00E4020C /* Privacy_statement.txt */,
+				AA4AF344294CB4EA00DD4F63 /* AddrStruct.swift */,
+				AA3D6AE125F1062E00E4020C /* Shapes.swift */,
+				AA3D6ADA25F1047500E4020C /* MyColor.swift */,
+				AA3D6AD725F1043200E4020C /* CustomButton.swift */,
+				AA9D049226D387DC004A253E /* LocationManager.swift */,
+				AABC11092876E189008441BD /* CardiExtensions.swift */,
+			);
+			path = Extras;
+			sourceTree = "<group>";
+		};
+		AA3D6ADD25F104C800E4020C /* Data Fetch */ = {
+			isa = PBXGroup;
+			children = (
+				AA86F10629BB549E00509F7A /* Add Device */,
+				AAACF61429B2506900AD4FA4 /* Gray */,
+				AA8E9CB9286C3AC70076D448 /* MovementData.swift */,
+				AA3D6ADE25F1051100E4020C /* BaseDataFetch.swift */,
+				AA3D6AE525F107B200E4020C /* DefriDataFetch.swift */,
+				AA8886272757D76E009D5B13 /* MessageDataListDefi.swift */,
+				AA8886292757D7A6009D5B13 /* MessageDataListComm.swift */,
+			);
+			path = "Data Fetch";
+			sourceTree = "<group>";
+		};
+		AA3D6AE825F1084800E4020C /* Mainmenu */ = {
+			isa = PBXGroup;
+			children = (
+				AABBD6B72AD693F10029C4D3 /* Data Fetch */,
+				AABBD6B42AD693610029C4D3 /* Data Model */,
+				AAD34AF02AA22F16004345F1 /* Dashboard.swift */,
+				AAFDAEDC2AA5FF01001B7653 /* MapViewDashboard.swift */,
+				AA29ECE22AAF528500756E1C /* UserInfoView.swift */,
+				AA2449E92AB98A480033379F /* UserInfoDetailView.swift */,
+				AA7D8C462AB06DD7007C057A /* ChangePasswordView.swift */,
+				AA7C28982AB088990082F079 /* AboutView.swift */,
+				AA7C289A2AB093960082F079 /* SettingsView.swift */,
+				AA2449EB2AB9A97F0033379F /* VisualSettingsView.swift */,
+				AAE765D82AB1C2DA009D01D9 /* AEDSearch.swift */,
+				AABBF5812ADD16BA00350777 /* DeadEndView.swift */,
+			);
+			path = Mainmenu;
+			sourceTree = "<group>";
+		};
+		AA3D6AF125F110D400E4020C /* AED */ = {
+			isa = PBXGroup;
+			children = (
+				AACC18502AC1CF6D003DD5E0 /* Data Fetch */,
+				AAB6F3742AA9C855009C8277 /* Data Model */,
+				9F04406D28DB283C00661916 /* Overview */,
+				AAC8EF7B2AC6E56C005FF771 /* AED_Green.swift */,
+				AA1359462AD3E19E003B43DF /* AED_Yellow.swift */,
+				AA1359482AD3EBDD003B43DF /* AED_Red.swift */,
+				AA13594A2AD3ED63003B43DF /* AED_Blue.swift */,
+				AAB727F92AC1C76D00304801 /* AED_Gray.swift */,
+				AA3D6AF325F1161000E4020C /* AED_Detailed.swift */,
+				AAB727FB2AC1C82800304801 /* AED_GeoLocation.swift */,
+				AACC184E2AC1CCCB003DD5E0 /* AED_Hardware.swift */,
+			);
+			path = AED;
+			sourceTree = "<group>";
+		};
+		AA3D6AF925F1164700E4020C /* Communicators */ = {
+			isa = PBXGroup;
+			children = (
+				AA0C95BD26F48339007C98CA /* CommMainMenu_New.swift */,
+				AA3D6B3125F166CA00E4020C /* CommDetailed.swift */,
+				AA004E702603A28C00771763 /* CommHardware.swift */,
+				AA004E7426049C2400771763 /* CommSimCard.swift */,
+			);
+			path = Communicators;
+			sourceTree = "<group>";
+		};
+		AA3D6AFD25F1168500E4020C /* Map */ = {
+			isa = PBXGroup;
+			children = (
+				AA8C2272271413BD0094D500 /* MapViewModel.swift */,
+				AA6A13E225FB5EE300FAFD96 /* LocationModel.swift */,
+				AAF0354F2A0BCFC80022AF5B /* MapViewGPS.swift */,
+			);
+			path = Map;
+			sourceTree = "<group>";
+		};
+		AA3D6B1225F137B800E4020C /* Data Model */ = {
+			isa = PBXGroup;
+			children = (
+				AA68B3352A0E2AD200023AC2 /* Messages */,
+				AAF0354C2A0BCE320022AF5B /* Map */,
+				AAE0FFBA2747D6BC00A40417 /* Sim */,
+				AA313C6D2743A09B00387013 /* SelfTest */,
+				AAA82722272173B800BBB9D5 /* Defibrillators */,
+				AAA827212721737F00BBB9D5 /* Communicators */,
+				AAA827202721703D00BBB9D5 /* Main List Defi */,
+				AAA8271F2721701000BBB9D5 /* Hardware */,
+				AA3D6B1425F138DA00E4020C /* BaseDataModels.swift */,
+				AACECCF3270DD13000756C36 /* GeoLocation.swift */,
+				AA3D6B1725F13BA700E4020C /* ListDataModel.swift */,
+				AA77227F25F6173200AFB43A /* ServiceGetsingleData.swift */,
+				AA77228D25F7C4D600AFB43A /* MessagesData.swift */,
+				AAFEF4C6274BB37F00BA7EF0 /* MessagesDataNK.swift */,
+				AAEE7D9D25F8C182001E03A1 /* SelfTestsData.swift */,
+				AA4EEE0925FA280800A2BE7F /* ServiceTicketData.swift */,
+				AAD864092615DA4E00DA1462 /* ListDataService.swift */,
+			);
+			path = "Data Model";
+			sourceTree = "<group>";
+		};
+		AA3D6B2125F145EB00E4020C /* Messages */ = {
+			isa = PBXGroup;
+			children = (
+				AAE46941274EAF8F00C621FD /* MessagesDetailedNK.swift */,
+				AA88861D275641A2009D5B13 /* MessagesDetailedBlocksNK.swift */,
+				AAE2C20C273E8C61008544CB /* MessagesDataFetch.swift */,
+				AAB3AFF32748031900380AEB /* MessagesMainMenuNK.swift */,
+				AA88861F27568386009D5B13 /* MessagesMainMenuCommNK.swift */,
+			);
+			path = Messages;
+			sourceTree = "<group>";
+		};
+		AA3D6B2525F146B300E4020C /* SelfTest */ = {
+			isa = PBXGroup;
+			children = (
+				AA313C6B27439FAA00387013 /* SelfTestMainMenuNK.swift */,
+			);
+			path = SelfTest;
+			sourceTree = "<group>";
+		};
+		AA417CE927BE861E003A9F78 /* Map2.0 */ = {
+			isa = PBXGroup;
+			children = (
+				AA8E9CB7286C371E0076D448 /* MapviewMoveUI.swift */,
+				AA8E9CB5286C35C10076D448 /* MapviewMove.swift */,
+				AA417CEE27BE86EA003A9F78 /* MapDirectory.swift */,
+				AA417CEF27BE86EB003A9F78 /* PlaceDefi.swift */,
+			);
+			path = Map2.0;
+			sourceTree = "<group>";
+		};
+		AA4AF348294CB63E00DD4F63 /* AddDevice */ = {
+			isa = PBXGroup;
+			children = (
+				AA8C40BC2A1B557E007FE421 /* General */,
+				AA211F0529F0272100CB75B2 /* BarcodeScanner */,
+				AA4AF36C294CB67100DD4F63 /* NK */,
+				AA4AF36B294CB66400DD4F63 /* Cardia */,
+				AAA175352AE156E2009FBE10 /* Vivest */,
+				AAF1D53E2AEAA1B700F5BFAF /* Primedic */,
+			);
+			path = AddDevice;
+			sourceTree = "<group>";
+		};
+		AA4AF36B294CB66400DD4F63 /* Cardia */ = {
+			isa = PBXGroup;
+			children = (
+				AA211F1D29F110BC00CB75B2 /* AD_02_CardiaSerialSelect.swift */,
+				AA211F0D29F0295400CB75B2 /* AD_031_CardiaSerial_ScannerView.swift */,
+				AA65165B2AEAAB6C0081D05A /* AD_032_CardiaSerial_Type.swift */,
+				AA4163B52993BCA5009EAA56 /* AD_05_CardiaOnboarding.swift */,
+				AA1D46B329B89EFF00ED6F12 /* AD_07_CardiaPairingOpenCover.swift */,
+				AA211F0129EEA15000CB75B2 /* AD_08_CardiaPairingStages.swift */,
+				AAE831BB29CC725000FA587D /* AD_09_CardiaPairingCloseCover.swift */,
+				AA4AF36D294CB68D00DD4F63 /* AD_10_CardiaPairingCheck.swift */,
+				AA597CC929B8D61C00B851BA /* AD_11_CardiaPairingRedGreen.swift */,
+				AAFFCAA629B8E2160006BB6B /* ADCardiaMotionDetection.swift */,
+			);
+			path = Cardia;
+			sourceTree = "<group>";
+		};
+		AA4AF36C294CB67100DD4F63 /* NK */ = {
+			isa = PBXGroup;
+			children = (
+				AA4AF371294CB69D00DD4F63 /* NKADBLECheckStatus.swift */,
+				AA4AF375294CB69D00DD4F63 /* NKADBLEGreen.swift */,
+				AA23EF3729966FAE004AB805 /* NKADBLERed.swift */,
+				AA4AF373294CB69D00DD4F63 /* NKADBLEOnboarding.swift */,
+				AAB8667429D5721B000EA609 /* ADNKPairingOpenCover.swift */,
+				AA6932492A3C4FD40062B0DC /* ADNKPairingStages.swift */,
+				AAB8667629D57237000EA609 /* ADNKPairingCloseCover.swift */,
+				AA4781B82A2872F2002F95DA /* AD_02_NKSerialSelect_Type.swift */,
+			);
+			path = NK;
+			sourceTree = "<group>";
+		};
+		AA68B3352A0E2AD200023AC2 /* Messages */ = {
+			isa = PBXGroup;
+			children = (
+				AA68B3332A0E2ACA00023AC2 /* BaseMessagesData.swift */,
+			);
+			path = Messages;
+			sourceTree = "<group>";
+		};
+		AA86F10629BB549E00509F7A /* Add Device */ = {
+			isa = PBXGroup;
+			children = (
+				AAD34AEC2AA2197C004345F1 /* GetData.swift */,
+				AAD34AEE2AA2198D004345F1 /* SaveData.swift */,
+			);
+			path = "Add Device";
+			sourceTree = "<group>";
+		};
+		AA8C40BC2A1B557E007FE421 /* General */ = {
+			isa = PBXGroup;
+			children = (
+				AA4AF356294CB65800DD4F63 /* AD_01_Intro.swift */,
+				AA4AF376294CB69D00DD4F63 /* AD_06_OnboardingPreSerial.swift */,
+				AA4AF358294CB65800DD4F63 /* AD_20_LocationShareData.swift */,
+				AA55DED829C3370800A5622F /* AD_21_EndOverview.swift */,
+				AA205FCE2A78FF0A007AFF33 /* AD_212_UpdateEndOverview.swift */,
+				AA18C9582A8B67F4008E42C1 /* AD_212_AvaillabilityEndOverview.swift */,
+				AA18C95A2A8BA0D0008E42C1 /* AD_212_ImagesUpdateEndOverview.swift */,
+				AA51D9F92A7BBCE800B4F534 /* AD_212_AddressUpdateEndOverview.swift */,
+				AAAF6FA62A865BBC0072109A /* AD_212_AddressAdditionalUpdateEndOverview.swift */,
+				AA4AF34B294CB65800DD4F63 /* AD_22_LocationEnd.swift */,
+				AA23EF39299683AE004AB805 /* Location */,
+				AA23EF34299625D9004AB805 /* NonIoT */,
+				AA23EF3A2996A008004AB805 /* Availability */,
+				AA8C40BD2A1B6325007FE421 /* Images */,
+			);
+			path = General;
+			sourceTree = "<group>";
+		};
+		AA8C40BD2A1B6325007FE421 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				AA4AF354294CB65800DD4F63 /* AD_17_LocationAvailabilityTimesOverview.swift */,
+				AA4AF34A294CB65800DD4F63 /* AD_18_LocationImages.swift */,
+				AA211F1F29F12FFE00CB75B2 /* AD_19_ImagesSelectionOLD.swift */,
+				AA9324F92A96606B0089EC74 /* AD_19_ImagesSelection.swift */,
+				AA7A8FA02A936DB000F517E9 /* XXImageTester2.swift */,
+			);
+			path = Images;
+			sourceTree = "<group>";
+		};
+		AAA175352AE156E2009FBE10 /* Vivest */ = {
+			isa = PBXGroup;
+			children = (
+				AAA175362AE1570C009FBE10 /* AD_02_VivestSerialSelect.swift */,
+				AAA175382AE16368009FBE10 /* AD_031_VivestSerial_ScannerView.swift */,
+				AAA1753A2AE1637A009FBE10 /* AD_031_VivestSerial_Type.swift */,
+			);
+			path = Vivest;
+			sourceTree = "<group>";
+		};
+		AAA8271F2721701000BBB9D5 /* Hardware */ = {
+			isa = PBXGroup;
+			children = (
+				AACECCF1270D8A4B00756C36 /* HardwareDataModel_Comm.swift */,
+				AA4F71542702240A0005491D /* HardwareDataModel_Defi.swift */,
+			);
+			path = Hardware;
+			sourceTree = "<group>";
+		};
+		AAA827202721703D00BBB9D5 /* Main List Defi */ = {
+			isa = PBXGroup;
+			children = (
+				AAAC867C26B7E93E00B2329E /* ListDataGreen.swift */,
+				AAACF61729B5D80600AD4FA4 /* ListDataGray.swift */,
+				AA6E2CA52A72C60A00161922 /* ListDataBlue.swift */,
+				AA053581261211A500F8A7BA /* ListDataYellow.swift */,
+				AA5B9D4C2613191A00016CA0 /* ListDataRed.swift */,
+			);
+			path = "Main List Defi";
+			sourceTree = "<group>";
+		};
+		AAA827212721737F00BBB9D5 /* Communicators */ = {
+			isa = PBXGroup;
+			children = (
+				AA040A7225F219B300F2F4D7 /* CommGetsingleData.swift */,
+				AAAF835826F3870600F11510 /* CommDataList.swift */,
+			);
+			path = Communicators;
+			sourceTree = "<group>";
+		};
+		AAA82722272173B800BBB9D5 /* Defibrillators */ = {
+			isa = PBXGroup;
+			children = (
+				AA82B3A026EE535F00F0F0B7 /* DefiDataModel.swift */,
+				AA4655C02B0660F2009FF899 /* DefiGetsingleData.swift */,
+				AA4655C42B0E5B24009FF899 /* DefiBaseData.swift */,
+			);
+			path = Defibrillators;
+			sourceTree = "<group>";
+		};
+		AAACF61429B2506900AD4FA4 /* Gray */ = {
+			isa = PBXGroup;
+			children = (
+				AAACF61529B251E200AD4FA4 /* GrayNotMonitoredData.swift */,
+			);
+			path = Gray;
+			sourceTree = "<group>";
+		};
+		AAB6F3742AA9C855009C8277 /* Data Model */ = {
+			isa = PBXGroup;
+			children = (
+				AACC18512AC1CFA8003DD5E0 /* AED_Models.swift */,
+			);
+			path = "Data Model";
+			sourceTree = "<group>";
+		};
+		AABBD6B42AD693610029C4D3 /* Data Model */ = {
+			isa = PBXGroup;
+			children = (
+				AABBD6B52AD6937F0029C4D3 /* SearchModel.swift */,
+				AABBF5832ADD30EB00350777 /* NotificationModel.swift */,
+			);
+			path = "Data Model";
+			sourceTree = "<group>";
+		};
+		AABBD6B72AD693F10029C4D3 /* Data Fetch */ = {
+			isa = PBXGroup;
+			children = (
+				AABBD6B82AD6941B0029C4D3 /* SearchFetch.swift */,
+			);
+			path = "Data Fetch";
+			sourceTree = "<group>";
+		};
+		AACC18502AC1CF6D003DD5E0 /* Data Fetch */ = {
+			isa = PBXGroup;
+			children = (
+				AA0647602A39C90700B44433 /* ImageFetcher.swift */,
+			);
+			path = "Data Fetch";
+			sourceTree = "<group>";
+		};
+		AAD563982875B2EF00F40FA8 /* Json */ = {
+			isa = PBXGroup;
+			children = (
+				AA8E9CB3286C34DC0076D448 /* emptymove.json */,
+				AA417CF227BFA787003A9F78 /* empty.json */,
+			);
+			path = Json;
+			sourceTree = "<group>";
+		};
+		AAE0FFBA2747D6BC00A40417 /* Sim */ = {
+			isa = PBXGroup;
+			children = (
+				AAE0FFBB2747D6EB00A40417 /* SIMDataModel.swift */,
+			);
+			path = Sim;
+			sourceTree = "<group>";
+		};
+		AAF0354C2A0BCE320022AF5B /* Map */ = {
+			isa = PBXGroup;
+			children = (
+				AAF0354D2A0BCE5F0022AF5B /* BaseMapData.swift */,
+			);
+			path = Map;
+			sourceTree = "<group>";
+		};
+		AAF1D53E2AEAA1B700F5BFAF /* Primedic */ = {
+			isa = PBXGroup;
+			children = (
+				AAF1D53F2AEAA1F100F5BFAF /* AD_02_PrimedicSerialSelect.swift */,
+				AAF1D5412AEAA21200F5BFAF /* AD_031_PrimedicSerial_ScannerView.swift */,
+				AAF1D5432AEAA22500F5BFAF /* AD_031_PrimedicSerial_Type.swift */,
+			);
+			path = Primedic;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		AA3D6AAA25F0FCC800E4020C /* CardiLink 2.0 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = AA3D6ABA25F0FCF500E4020C /* Build configuration list for PBXNativeTarget "CardiLink 2.0" */;
+			buildPhases = (
+				AA3D6AA725F0FCC800E4020C /* Sources */,
+				AA3D6AA825F0FCC800E4020C /* Frameworks */,
+				AA3D6AA925F0FCC800E4020C /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "CardiLink 2.0";
+			packageProductDependencies = (
+				AAEF7789276A177A00844214 /* Alamofire */,
+				AAEF778F276A180600844214 /* SwiftyJSON */,
+				AAE54B2C2798475500DE6732 /* FirebaseAnalytics */,
+				AAE54B2E2798475500DE6732 /* FirebaseMessaging */,
+			);
+			productName = "CardiLink 2.0";
+			productReference = AA3D6AAB25F0FCC900E4020C /* CardiLink 2.0.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		AA3D6AA325F0FCC800E4020C /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1240;
+				LastUpgradeCheck = 1240;
+				TargetAttributes = {
+					AA3D6AAA25F0FCC800E4020C = {
+						CreatedOnToolsVersion = 12.4;
+					};
+				};
+			};
+			buildConfigurationList = AA3D6AA625F0FCC800E4020C /* Build configuration list for PBXProject "CardiLink 2.0" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				de,
+				Base,
+			);
+			mainGroup = AA3D6AA225F0FCC800E4020C;
+			packageReferences = (
+				AAEF7788276A177A00844214 /* XCRemoteSwiftPackageReference "Alamofire" */,
+				AAEF778E276A180600844214 /* XCRemoteSwiftPackageReference "SwiftyJSON" */,
+				AAE54B2B2798475500DE6732 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */,
+			);
+			productRefGroup = AA3D6AAC25F0FCC900E4020C /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				AA3D6AAA25F0FCC800E4020C /* CardiLink 2.0 */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		AA3D6AA925F0FCC800E4020C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AA3D6B1025F11EEA00E4020C /* Privacy_statement.txt in Resources */,
+				AA44D8022AE67224000A2803 /* Countries.txt in Resources */,
+				AA4655C72B0E63A4009FF899 /* InfoPlist.xcstrings in Resources */,
+				AA8E9CB4286C34DD0076D448 /* emptymove.json in Resources */,
+				AA4655C92B0E63A4009FF899 /* Localizable.xcstrings in Resources */,
+				AA3D6AB625F0FCF500E4020C /* Preview Assets.xcassets in Resources */,
+				AA3D6AB325F0FCF500E4020C /* Assets.xcassets in Resources */,
+				AA417CF327BFA787003A9F78 /* empty.json in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		AA3D6AA725F0FCC800E4020C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AAEE7D9E25F8C182001E03A1 /* SelfTestsData.swift in Sources */,
+				AA211F1029F0295C00CB75B2 /* CameraView.swift in Sources */,
+				AA597CCA29B8D61C00B851BA /* AD_11_CardiaPairingRedGreen.swift in Sources */,
+				AA4AF36F294CB68D00DD4F63 /* AD_10_CardiaPairingCheck.swift in Sources */,
+				AA7D8C472AB06DD7007C057A /* ChangePasswordView.swift in Sources */,
+				AA2449EA2AB98A480033379F /* UserInfoDetailView.swift in Sources */,
+				AAFFCAA729B8E2160006BB6B /* ADCardiaMotionDetection.swift in Sources */,
+				AA8E9CB8286C371E0076D448 /* MapviewMoveUI.swift in Sources */,
+				AA211F0229EEA15000CB75B2 /* AD_08_CardiaPairingStages.swift in Sources */,
+				AA4AF365294CB65800DD4F63 /* AD_17_LocationAvailabilityTimesOverview.swift in Sources */,
+				AAC8EF7C2AC6E56C005FF771 /* AED_Green.swift in Sources */,
+				AA2449E82AB834830033379F /* AD_04_VIVHC.swift in Sources */,
+				AA7A8FA12A936DB000F517E9 /* XXImageTester2.swift in Sources */,
+				AA77228E25F7C4D600AFB43A /* MessagesData.swift in Sources */,
+				AAAF835926F3870600F11510 /* CommDataList.swift in Sources */,
+				AA7C28992AB088990082F079 /* AboutView.swift in Sources */,
+				AAF1D5422AEAA21200F5BFAF /* AD_031_PrimedicSerial_ScannerView.swift in Sources */,
+				AA23EF3829966FAE004AB805 /* NKADBLERed.swift in Sources */,
+				AA3D6B3225F166CA00E4020C /* CommDetailed.swift in Sources */,
+				AA8C2273271413BE0094D500 /* MapViewModel.swift in Sources */,
+				AA47DBA62A0926A5004328D5 /* NavigationManager.swift in Sources */,
+				AAE0FFBC2747D6EB00A40417 /* SIMDataModel.swift in Sources */,
+				AA4AF362294CB65800DD4F63 /* AD_122_LocationAddress.swift in Sources */,
+				AA4AF36A294CB65800DD4F63 /* AD_15_LocationAvailability.swift in Sources */,
+				AAD34AF12AA22F16004345F1 /* Dashboard.swift in Sources */,
+				AA3D6AD825F1043200E4020C /* CustomButton.swift in Sources */,
+				AA417CF027BE86EB003A9F78 /* MapDirectory.swift in Sources */,
+				AA4AF367294CB65800DD4F63 /* AD_01_Intro.swift in Sources */,
+				AA184C022A57EC6700857C55 /* DefibrillatorOverviewAddressViewHours.swift in Sources */,
+				AA0647632A39F83500B44433 /* DefibrillatorOverviewPhotos.swift in Sources */,
+				AA205FCF2A78FF0A007AFF33 /* AD_212_UpdateEndOverview.swift in Sources */,
+				AA29ECE32AAF528500756E1C /* UserInfoView.swift in Sources */,
+				AAA175372AE1570C009FBE10 /* AD_02_VivestSerialSelect.swift in Sources */,
+				AA160D4C29C9D34500F298DC /* AvailData.swift in Sources */,
+				AA8E9CBA286C3AC70076D448 /* MovementData.swift in Sources */,
+				AA6A13E325FB5EE300FAFD96 /* LocationModel.swift in Sources */,
+				AA3D6AF425F1161000E4020C /* AED_Detailed.swift in Sources */,
+				AAE765D92AB1C2DA009D01D9 /* AEDSearch.swift in Sources */,
+				AAE46942274EAF8F00C621FD /* MessagesDetailedNK.swift in Sources */,
+				AA96734A27297737003E98A8 /* NKBT_Connected.swift in Sources */,
+				AA4AF363294CB65800DD4F63 /* AD_121_LocationPosition.swift in Sources */,
+				AA211F1E29F110BC00CB75B2 /* AD_02_CardiaSerialSelect.swift in Sources */,
+				AA4F71552702240A0005491D /* HardwareDataModel_Defi.swift in Sources */,
+				AA77228025F6173200AFB43A /* ServiceGetsingleData.swift in Sources */,
+				AA313C712743A4DE00387013 /* selfTestJSONFetch.swift in Sources */,
+				AA13594B2AD3ED63003B43DF /* AED_Blue.swift in Sources */,
+				AABC110A2876E189008441BD /* CardiExtensions.swift in Sources */,
+				AABBD6B92AD6941B0029C4D3 /* SearchFetch.swift in Sources */,
+				AA040A7325F219B300F2F4D7 /* CommGetsingleData.swift in Sources */,
+				AA4AF37B294CB69D00DD4F63 /* NKADBLEGreen.swift in Sources */,
+				AA23EF3329962543004AB805 /* ADIotManufacturer.swift in Sources */,
+				9F04407128DB41F100661916 /* DefibrillatorOverviewMessages.swift in Sources */,
+				AAF1D5442AEAA22500F5BFAF /* AD_031_PrimedicSerial_Type.swift in Sources */,
+				AABBD6B62AD6937F0029C4D3 /* SearchModel.swift in Sources */,
+				9F04406F28DB290400661916 /* DefibrillatorOverviewAddress.swift in Sources */,
+				9F04407B28DB49F600661916 /* DefibrillatorOverviewCrucial.swift in Sources */,
+				AAB8667729D57237000EA609 /* ADNKPairingCloseCover.swift in Sources */,
+				AA0647612A39C90700B44433 /* ImageFetcher.swift in Sources */,
+				AA65165C2AEAAB6C0081D05A /* AD_032_CardiaSerial_Type.swift in Sources */,
+				9F04407928DB49BF00661916 /* DefibrillatorOverviewBattery.swift in Sources */,
+				AA9324FA2A96606B0089EC74 /* AD_19_ImagesSelection.swift in Sources */,
+				AA55DED929C3370800A5622F /* AD_21_EndOverview.swift in Sources */,
+				AA7C289B2AB093960082F079 /* SettingsView.swift in Sources */,
+				AA4781B92A2872F2002F95DA /* AD_02_NKSerialSelect_Type.swift in Sources */,
+				AA4AF379294CB69D00DD4F63 /* NKADBLEOnboarding.swift in Sources */,
+				AA82B3A126EE535F00F0F0B7 /* DefiDataModel.swift in Sources */,
+				AA4EEE0A25FA280800A2BE7F /* ServiceTicketData.swift in Sources */,
+				AA5B9D4D2613191A00016CA0 /* ListDataRed.swift in Sources */,
+				AAA1753B2AE1637A009FBE10 /* AD_031_VivestSerial_Type.swift in Sources */,
+				AA1359492AD3EBDD003B43DF /* AED_Red.swift in Sources */,
+				AA004E7526049C2400771763 /* CommSimCard.swift in Sources */,
+				AA4AF368294CB65800DD4F63 /* AD_11_LocationMainScreen.swift in Sources */,
+				AA4655C12B0660F2009FF899 /* DefiGetsingleData.swift in Sources */,
+				AA313C6C27439FAA00387013 /* SelfTestMainMenuNK.swift in Sources */,
+				AA4AF369294CB65800DD4F63 /* AD_20_LocationShareData.swift in Sources */,
+				AA47DBA82A092704004328D5 /* ContentView.swift in Sources */,
+				AA184C002A4EBD1800857C55 /* DefibrillatorOverviewAvailable.swift in Sources */,
+				AA4AF377294CB69D00DD4F63 /* NKADBLECheckStatus.swift in Sources */,
+				AA69324A2A3C4FD40062B0DC /* ADNKPairingStages.swift in Sources */,
+				9F04407728DB480E00661916 /* DefibrillatorOverviewMovements.swift in Sources */,
+				AA417CF127BE86EB003A9F78 /* PlaceDefi.swift in Sources */,
+				AAB727FA2AC1C76D00304801 /* AED_Gray.swift in Sources */,
+				AA4AF35C294CB65800DD4F63 /* AD_22_LocationEnd.swift in Sources */,
+				AA884CE72A9DF7C700BEEBF0 /* PortalSelector.swift in Sources */,
+				AA3D6ADF25F1051100E4020C /* BaseDataFetch.swift in Sources */,
+				AAD34AEF2AA2198D004345F1 /* SaveData.swift in Sources */,
+				AA3D6AE225F1062E00E4020C /* Shapes.swift in Sources */,
+				AA51D9FA2A7BBCE800B4F534 /* AD_212_AddressUpdateEndOverview.swift in Sources */,
+				AAACF61829B5D80600AD4FA4 /* ListDataGray.swift in Sources */,
+				AA1359472AD3E19E003B43DF /* AED_Yellow.swift in Sources */,
+				AA4AF35D294CB65800DD4F63 /* AD_13_LocationMap.swift in Sources */,
+				AA0C95BE26F48339007C98CA /* CommMainMenu_New.swift in Sources */,
+				AA4163B62993BCA5009EAA56 /* AD_05_CardiaOnboarding.swift in Sources */,
+				9F43F3AA28A3D83500A05560 /* DefibrillatorOverviewSettings.swift in Sources */,
+				AACC18522AC1CFA8003DD5E0 /* AED_Models.swift in Sources */,
+				AA4AF345294CB4EA00DD4F63 /* AddrStruct.swift in Sources */,
+				AAD34AED2AA2197C004345F1 /* GetData.swift in Sources */,
+				AA2449EC2AB9A97F0033379F /* VisualSettingsView.swift in Sources */,
+				AA004E712603A28C00771763 /* CommHardware.swift in Sources */,
+				AA3D6AE625F107B200E4020C /* DefriDataFetch.swift in Sources */,
+				AA88862027568386009D5B13 /* MessagesMainMenuCommNK.swift in Sources */,
+				AAF035502A0BCFC80022AF5B /* MapViewGPS.swift in Sources */,
+				AAFDAEDD2AA5FF01001B7653 /* MapViewDashboard.swift in Sources */,
+				AA23EF3C299A5B5B004AB805 /* AD_16_LocationAvailabilityTimes.swift in Sources */,
+				AA18C9592A8B67F4008E42C1 /* AD_212_AvaillabilityEndOverview.swift in Sources */,
+				AA053582261211A500F8A7BA /* ListDataYellow.swift in Sources */,
+				AAACF61629B251E200AD4FA4 /* GrayNotMonitoredData.swift in Sources */,
+				AAE831BC29CC725000FA587D /* AD_09_CardiaPairingCloseCover.swift in Sources */,
+				AAF0354E2A0BCE5F0022AF5B /* BaseMapData.swift in Sources */,
+				AAE85C17272AFEEB00CB6EC5 /* BluetoothManger.swift in Sources */,
+				AA3D6ADB25F1047500E4020C /* MyColor.swift in Sources */,
+				AACECCF2270D8A4C00756C36 /* HardwareDataModel_Comm.swift in Sources */,
+				AAF1D5402AEAA1F200F5BFAF /* AD_02_PrimedicSerialSelect.swift in Sources */,
+				AA3D6B1525F138DA00E4020C /* BaseDataModels.swift in Sources */,
+				AA211F1829F0298D00CB75B2 /* Extensions+View.swift in Sources */,
+				AA4AF37C294CB69D00DD4F63 /* AD_06_OnboardingPreSerial.swift in Sources */,
+				AA3D6AC725F1011400E4020C /* MainBackground.swift in Sources */,
+				AA9324FE2A98A1770089EC74 /* AD_04_NKHC.swift in Sources */,
+				AAD8640A2615DA4E00DA1462 /* ListDataService.swift in Sources */,
+				AA3D6B1825F13BA700E4020C /* ListDataModel.swift in Sources */,
+				AA211F1529F0298700CB75B2 /* QRScannerDelegate.swift in Sources */,
+				AABBF5842ADD30EB00350777 /* NotificationModel.swift in Sources */,
+				AA313C6F2743A0D400387013 /* selfTestDataModel.swift in Sources */,
+				AAAF6FA72A865BBC0072109A /* AD_212_AddressAdditionalUpdateEndOverview.swift in Sources */,
+				AA9D049326D387DC004A253E /* LocationManager.swift in Sources */,
+				AA211F0E29F0295400CB75B2 /* AD_031_CardiaSerial_ScannerView.swift in Sources */,
+				AA68B3342A0E2ACA00023AC2 /* BaseMessagesData.swift in Sources */,
+				AA31E64F29914CB5002C8232 /* ADIotDeviceInformation.swift in Sources */,
+				AA4AF35F294CB65800DD4F63 /* AD_14_LocationAdditional.swift in Sources */,
+				AA3D6AAF25F0FCCA00E4020C /* CardiLink_2_0App.swift in Sources */,
+				AABBF5822ADD16BA00350777 /* DeadEndView.swift in Sources */,
+				AA211F2029F12FFE00CB75B2 /* AD_19_ImagesSelectionOLD.swift in Sources */,
+				AA884CE52A9DF66200BEEBF0 /* CASLogin.swift in Sources */,
+				AAA175392AE16368009FBE10 /* AD_031_VivestSerial_ScannerView.swift in Sources */,
+				AA31E64E29914CB5002C8232 /* AD_04_IotStart.swift in Sources */,
+				AACECCF4270DD13000756C36 /* GeoLocation.swift in Sources */,
+				AAB8667529D5721B000EA609 /* ADNKPairingOpenCover.swift in Sources */,
+				AAAA0B652A43028600ECD36F /* DeviceAvailabilityViewModel.swift in Sources */,
+				AAB727FC2AC1C82800304801 /* AED_GeoLocation.swift in Sources */,
+				AA8E9CB6286C35C10076D448 /* MapviewMove.swift in Sources */,
+				AAFEF4C7274BB37F00BA7EF0 /* MessagesDataNK.swift in Sources */,
+				AA211F1A29F02EDA00CB75B2 /* ScannerSerialView.swift in Sources */,
+				AA88861E275641A2009D5B13 /* MessagesDetailedBlocksNK.swift in Sources */,
+				AAAB5641270B379900DB467F /* NKBT_Serial.swift in Sources */,
+				AACC184F2AC1CCCB003DD5E0 /* AED_Hardware.swift in Sources */,
+				AAB3AFF42748031900380AEB /* MessagesMainMenuNK.swift in Sources */,
+				AA1D46B429B89EFF00ED6F12 /* AD_07_CardiaPairingOpenCover.swift in Sources */,
+				AA211F1629F0298700CB75B2 /* Permission.swift in Sources */,
+				AAE2C20D273E8C61008544CB /* MessagesDataFetch.swift in Sources */,
+				AAEE7DA925F9225B001E03A1 /* ForgotPassword.swift in Sources */,
+				AA6E2CA62A72C60A00161922 /* ListDataBlue.swift in Sources */,
+				AAAC867D26B7E93E00B2329E /* ListDataGreen.swift in Sources */,
+				AA4AF35B294CB65800DD4F63 /* AD_18_LocationImages.swift in Sources */,
+				9F04407328DB441900661916 /* DefibrillatorOverviewSelfTest.swift in Sources */,
+				AA4655C52B0E5B24009FF899 /* DefiBaseData.swift in Sources */,
+				AA8886282757D76E009D5B13 /* MessageDataListDefi.swift in Sources */,
+				AA71F525289268810027A34D /* AED_Overview.swift in Sources */,
+				AA18C95B2A8BA0D0008E42C1 /* AD_212_ImagesUpdateEndOverview.swift in Sources */,
+				AA88862A2757D7A6009D5B13 /* MessageDataListComm.swift in Sources */,
+				AAAA0B692A49C79900ECD36F /* DefibrillatorOverviewAddressAddHours.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		AA3D6AB825F0FCF500E4020C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.4;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		AA3D6AB925F0FCF500E4020C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.4;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		AA3D6ABB25F0FCF500E4020C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "CardiLink 2.0/CardiLink 2.0Debug.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 012;
+				DEVELOPMENT_ASSET_PATHS = "\"CardiLink 2.0/Preview Content\"";
+				DEVELOPMENT_TEAM = GADFHY9CJ6;
+				ENABLE_PREVIEWS = YES;
+				INFOPLIST_FILE = "CardiLink 2.0/Info.plist";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.healthcare-fitness";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.3.5;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.cardi-link.CardiLink20";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		AA3D6ABC25F0FCF500E4020C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "CardiLink 2.0/CardiLink 2.0Release.entitlements";
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 012;
+				DEVELOPMENT_ASSET_PATHS = "\"CardiLink 2.0/Preview Content\"";
+				DEVELOPMENT_TEAM = GADFHY9CJ6;
+				ENABLE_PREVIEWS = YES;
+				INFOPLIST_FILE = "CardiLink 2.0/Info.plist";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.healthcare-fitness";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.3.5;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.cardi-link.CardiLink20";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		AA3D6AA625F0FCC800E4020C /* Build configuration list for PBXProject "CardiLink 2.0" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AA3D6AB825F0FCF500E4020C /* Debug */,
+				AA3D6AB925F0FCF500E4020C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		AA3D6ABA25F0FCF500E4020C /* Build configuration list for PBXNativeTarget "CardiLink 2.0" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AA3D6ABB25F0FCF500E4020C /* Debug */,
+				AA3D6ABC25F0FCF500E4020C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		AAE54B2B2798475500DE6732 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/firebase/firebase-ios-sdk";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 8.0.0;
+			};
+		};
+		AAEF7788276A177A00844214 /* XCRemoteSwiftPackageReference "Alamofire" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/Alamofire/Alamofire";
+			requirement = {
+				branch = master;
+				kind = branch;
+			};
+		};
+		AAEF778E276A180600844214 /* XCRemoteSwiftPackageReference "SwiftyJSON" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/SwiftyJSON/SwiftyJSON";
+			requirement = {
+				branch = master;
+				kind = branch;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		AAE54B2C2798475500DE6732 /* FirebaseAnalytics */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = AAE54B2B2798475500DE6732 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseAnalytics;
+		};
+		AAE54B2E2798475500DE6732 /* FirebaseMessaging */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = AAE54B2B2798475500DE6732 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseMessaging;
+		};
+		AAEF7789276A177A00844214 /* Alamofire */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = AAEF7788276A177A00844214 /* XCRemoteSwiftPackageReference "Alamofire" */;
+			productName = Alamofire;
+		};
+		AAEF778F276A180600844214 /* SwiftyJSON */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = AAEF778E276A180600844214 /* XCRemoteSwiftPackageReference "SwiftyJSON" */;
+			productName = SwiftyJSON;
+		};
+/* End XCSwiftPackageProductDependency section */
+	};
+	rootObject = AA3D6AA325F0FCC800E4020C /* Project object */;
+}

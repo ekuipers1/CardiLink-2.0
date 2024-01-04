@@ -1,0 +1,387 @@
+/* 
+  Localizable.strings
+  CardiLink 2.0
+
+  Created by Erik Kuipers on 06.07.22.
+  
+*/
+
+
+//Login
+"Remember me" = "Erinnere Dich";
+"Forgot your password?" = "Passwort vergessen?";
+"Your Email / User ID" = "Ihre E-Mailadresse / Benutzer-ID";
+"Password" = "Passwort";
+"Invalid Login Info" = "Ungültige Anmeldedaten";
+"Please make sure you have entered the correct login information or make sure you have selected a portal." = "Bitte vergewissern Sie sich, dass Sie die richtigen Anmeldeinformationen eingegeben haben oder dass Sie ein Portal ausgewählt haben.";
+"Please visit the online portal to get a new password or use the below ITSM link" = "Bitte besuchen Sie das Online-Portal, um ein neues Passwort zu erhalten, oder verwenden Sie den unten stehenden ITSM-Link.";
+"Dismiss" = "Ablehnung";
+//Login
+
+
+//BLE
+"Bluetooth Onboarding" = "Bluetooth-Einrichtung";
+"Important Notice" = "Wichtige Information";
+"Before you start the connecting wizard please make sure you always have only (1) Heart Connect II active, if you have more, the pairing process will not work." = "Bevor Sie den Verbindungsassistenten starten, vergewissern Sie sich bitte, dass immer nur (1) Heart Connect II aktiv ist; wenn Sie mehr haben, funktioniert der Kopplungsprozess nicht.";
+"Continue" = "Weiter";
+
+"First time connecting?" = "Sie richten ein Gerät zum ersten mal ein?";
+"Prepare the Heart Connect II to connect" = "Heart Connect II für die Einrichtung vorbereiten";
+"Heart Connect II is already prepared for connecting" = "Das Heart Connect II ist für die Einrichtung vorbereitet";
+"Enter AED serial number" = "AED Seriennummer eingeben";
+
+"Prepare the Heart Connect II to connect" = "Heart Connect II für die Einrichtung vorbereiten";
+"Make sure your bluetooth is on: Settings - Bluetooth" = "Stellen Sie sicher, dass Ihr Bluetooth eingeschaltet ist: Geräteeinstellungen - Bluetooth";
+"Press and hold down the indication button by using a paper clip or a similar tool for longer than seven seconds until the yellow LED light starts blinking" = "Drücken und halten Sie den Knopf mit einer Büroklammer oder einem ähnlichen Werkzeug länger als sieben Sekunden gedrückt, bis die gelbe LED-Leuchte zu blinken beginnt.";
+
+"Please enter AED serial number (5 or 6 digits)" = "Bitte geben Sie die Serienummer des AED (5 oder 6 Ziffern) ein";
+"After you tab on continue, the app will make the Bluetooth connection and verify your AED serial number." = "Nachdem Sie auf Weiter geklickt haben, stellt die App die Bluetooth-Verbindung her und verifiziert Ihre AED-Seriennummer.";
+"Bluetooth issue" = "Bluetooth-Problem";
+"Please make sure your bluetooth is turned on and check if the app has permission to use it." = "Bitte stellen Sie sicher, dass Ihr Bluetooth eingeschaltet ist und überprüfen Sie, ob die App die Berechtigung hat, es zu verwenden.";
+"Incorrect AED Serial Number" = "Falsche AED-Seriennummer";
+"Please enter at least 5 numbers!" = "Bitte geben Sie mindestens 5 Zahlen ein!";
+
+"Bluetooth Connected" = "Bluetooth verbunden";
+"BLE Connection UID" = "BLE-Verbindungs-UID";
+"The AED serial number is successfully verified." = "Die AED-Seriennummer wurde erfolgreich überprüft.";
+"We are unable to verify your AED serial number and will keep on trying." = "Wir sind nicht in der Lage, Ihre AED-Seriennummer zu überprüfen; werden es jedoch weiter versuchen.";
+"If it is unsuccessful after 3 minutes please try again." = "Wenn es nach 3 Minuten immer noch nicht erfolgreich ist, versuchen Sie es bitte erneut.";
+"Close" = "Schließen";
+//BLE
+
+
+//DashBoard
+"Good Night." = "Gute Nacht.";
+"Good Morning." = "Guten Morgen.";
+"Good Afternoon." = "Schönen Nachmittag.";
+"Good Evening." = "Schönen Abend.";
+
+"AED ID/ Description" = "AED-ID/ Beschreibung";
+"AEDs" = "AEDen";
+"Heart Connects" = "Heart Connect";
+"Connected" = "Verbunden";
+"Service Tickets" = "Service-Tickets";
+"Unavailable" = "Nicht verfügbar";
+"Current open" = "Gerade geöffnet";
+"None Open" = "Keine offen";
+"AEDs with" = "AEDen mit";
+"GPS available" = "GPS verfügbar";
+"Logout" = "Abmeldung";
+"About" = "Über";
+//DashBoard
+
+
+//Search
+"Search Results" = "Suchergebnisse";
+"Your search for" = "Deine Suche nach";
+"returned the following results" = "lieferte die folgenden Ergebnisse";
+"Available" = "Verfügbar";
+"Overdue / Warning" = "Überfällig / Warnung";
+"Error / Timeout" = "Fehler / Timeout";
+"Not monitored" = "Nicht überwacht";
+//Search
+
+
+//About
+"About & User Info" = " About & Benutzerinformationen";
+"90762 Fürth, Germany" = "90762 Fürth, Deutschland";
+
+"User Information" = "Benutzerinformationen";
+"Login:" = "Login:";
+"Name:" = "Name:";
+"E-Mail Address:" = "E-Mailadresse:";
+"Telephone:" = "Telefon:";
+"Mobile phone:" = "Mobilnummer:";
+"Telegram:" = "Telegram:";
+"Homepage:" = "Homepage:";
+"Description:" = "Beschreibung:";
+
+"Settings" = "Einstellungen";
+"New map introduction" = "Neue Karteneinführung";
+
+"License Information" = "Lizenzinformation";
+"Privacy statement" = "Datenschutzerklärung";
+"Package Dependencies:" = "Paketabhängigkeiten:";
+//About
+
+
+//Defibrillator Main
+"AED" = "AEDen";
+//Defibrillator Main
+
+
+//Defibrillator Detailed
+"AED" = "AED";
+"Unknown AED" = "Unbekannter AED";
+"Please try again" = "Bitte versuche es erneut";
+"Movements detected" = "Bewegung erkannt";
+"Status" = "Status";
+"Dashboard State" = "Dashboard-Status";
+
+//old
+"Administration State" = "Verwaltungsstaat";
+"Owner" = "Eigentümer";
+//old
+
+"Description" = "Beschreibung";
+"Last Self Tests" = "Letzte Selbsttests";
+"Daily" = "Täglich";
+
+"Paired with" = "Pairing mit";
+"Heart Connect" = "Heart Connect";
+"since" = "seit";
+//Defibrillator Detailed
+
+
+//Menu
+"Service" = "Service";
+"tickets" = "tickets";
+"Messages" = "Nachrichten";
+"Geo" = "Geo";
+"location" = "Standort";
+"Hardware" = "Hardware";
+"Self test" = "Selbsttest";
+"Home" = "Zuhause";
+//Menu
+
+
+//Hardware
+"Base Information" = "Basisinformationen";
+"Model:" = "Modell:";
+"Language:" = "Sprache:";
+"Batch ID:" = "Batch-ID:";
+"Production Date:" = "Produktionsdatum:";
+"Activation Date:" = "Aktivierungsdatum:";
+
+"PCB Information" = "PCB Informationen";
+"Serial Number:" = "Seriennummer:";
+"Manufacturer:" = "Hersteller:";
+"Hardware version:" = "Hardware Version:";
+"Firmware version:" = "Firmware Version:";
+
+"Electrodes Information" = "Elektroden-Information";
+"Expiration Date:" = "Ablaufdatum:";
+
+"Battery Information" = "Batterie-Information";
+"LOT:" = "LOT:";
+"Battery Percentage:" = "Batteriekapazität";
+
+"Bluetooth" = "Bluetooth";
+"MAC Address:" = "MAC-Adresse:";
+//Hardware
+
+
+//GEO Location
+"Geo location" = "Geo-Standort";
+"Address" = "Anschrift";
+"Street:" = "Straße:";
+"House number:" = "Hausnummer:";
+"Floor level:" = "Erdgeschoss:";
+"Postal Code:" = "Postleitzahl:";
+"City:" = "Stadt:";
+"Country:" = "Land:";
+"Comment:" = "Kommentar:";
+
+"Geo position" = "Geo-Standorte";
+"Latitude:" = "Breitengrad:";
+"Longtitude:" = "Längengrad:";
+
+"Geo fence" = "Geofence";
+"Type:" = "Typ:";
+"Circle" = "Umkreis";
+"Radius: N/A" = "Radius: N/A";
+"Radius:" = "Radius:";
+" Kilometer" = " Kilometer";
+//GEO Location
+
+
+//Messages
+"Messages" = "Mitteilungen";
+"AED Cover Open" = "AED Deckel geöffnet";
+"GPS" = "GPS";
+"Synced" = "Synchronisiert";
+"Paired" = "Paired";
+"Alarm" = "Alarm";
+"Monthly" = "Monatlich";
+"Yearly" = "Jährlich";
+"Networking Report" = "Networking-Report";
+"Bootup" = "Bootup";
+"ERROR" = "ERROR";
+"Motion" = "Bewegung";
+"Unknown" = "Unbekannt";
+"In motion" = "In Bewegung";
+"No motion" = "Keine Bewegung";
+"Transmission attempts" = "Übertragungsversuche";
+"Battery levels" = "Batteriekapazität";
+"AED is at " = "AED ist an ";
+"Heart Connect is at " = "Heart Connect ist an ";
+
+"Battery Errors:" = "Batteriefehler:";
+"Yes" = "Ja";
+"No" = "Nein";
+"Red Errors:" = "Rote Fehler:";
+"Warnings:" = "Warnungen:";
+"AED Visible On Bluetooth" = "AED ist via Bluetooth sichtbar:";
+
+"AED Information" = "AED-Informationen";
+"Pad Expiration Date" = "Elektrodenablaufdatum";
+"AED Model" = "AED-Modell";
+"AED MAC Address" = "AED MAC-Adresse:";
+
+"Battery Model" = "Batteriemodell";
+"Battery Serial Number" = "Batterieseriennummer";
+"Battery Expiration Date" = "Batterieablaufdatum";
+"Activation Date" = "Aktivierungsdatum";
+
+"Geo location" = "GEO-Standort";
+
+"Paired devices Information" = "Gekoppelte Geräte Informationen";
+"Pairing Successful" = "Pairing erfolgreich";
+"Heart Connect Serial" = "Heart Connect-Seriennummer";
+"AED Serial" = "AED-Seriennummer";
+
+"Mobile Information" = "Mobilfunknetz";
+"Mobile network operator (MNO):" = "Mobile network operator (MNO):";
+"Mobile Country Code (MCC):" = "Mobile Country Code (MCC):";
+"Signal Strength:" = "Signalstärke:";
+
+"Excellent" = "Exzellent";
+"Good" = "Gut";
+"Fair" = "Ausreichend";
+"Poor" = "Schwach";
+"No Signal" = "Kein Signal";
+
+"Bootup Information" = "Bootup Information";
+"Bluetooth Chipset Status:" = "Bluetooth Chipset Status:";
+"Bluetooth MAC Address:" = "Bluetooth Mac Adresse:";
+
+"Error Information" = "Fehlerinformation";
+"Category:" = "Kategorie:";
+"Message:" = "Nachricht:";
+
+"Test Information" = "Testinformation";
+"Self Test Result:" = "Selbsttestergebnis:";
+"Battery Error" = "Batteriefehler";
+"Red Error" = "Roter Fehler";
+//Messages
+
+
+//Self Tests
+"Self Tests" = "Selbsttests";
+"OK" = "OK";
+"Error" = "Fehler";
+"Uncritical" = "Unkritisch";
+"No Warnings" = "Keine Warnungen";
+"No Error" = "Kein Fehler";
+"Red Error" = "Roter Fehler";
+"This AED" = "Dieser AED";
+"has no Self Test" = "hat keinen Selbsttest";
+//Self Tests
+
+
+//Service tickets
+"has no Service Tickets" = "hat keine Service-Tickets";
+"Service Tickets" = "Service-Tickets";
+"New" = "Neu";
+"Author" = "Autor";
+"End user" = "End user";
+"Priority" = "Priorität";
+"Normal/Default priority" = "Normal/Standard Priorität";
+"Additional info" = "Zusätzliche Information";
+"Service Ticket Number" = "Service-Ticket-Nummer";
+"Problem description" = "Problembeschreibung";
+"Affected device:" = "Betroffenes Gerät:";
+"AED Serial:" = "Seriennummer des AED:";
+"Heart Connect Serial:" = "Seriennummer des Heart Connects:";
+//Service tickets
+
+
+//Communicators Detailed
+"Heart Connects" = "Kommunikatoren";
+"Unknown Heart Connect" = "Unbekannter Heart Connect";
+"Initial Bootup Date:" = "Erstmalige Inbetriebnahme:";
+//Communicators Detailed
+
+
+//Communicators menu
+"SIM Card" = "SIM Karte";
+//Communicators menu
+
+
+//Communicators Hardware
+"Model" = "Modell";
+"Firmware Version" = "Firmware Version";
+"Battery Percentage" = "Batteriekapazität in %";
+"Internal Checks" = "Interne Überprüfungen";
+"Bootup Status:" = "Bootup Status:";
+"Success" = "Erfolgreich";
+"Failed" = "Fehler";
+"Bluetooth chipset:" = "Bluetooth Chipset:";
+"Bluetooth MAC address:" = "Bluetooth Mac Adresse:";
+//Communicators Hardware
+
+
+//SIM Card
+"SIM Card Information" = "SIM-Karten-Information";
+"SIM card Id:" = "SIM-Karten-ID:";
+"Mobile country code (MCC):" = "Mobile country code (MCC):";
+"Mobile network code (MNC):" = "obile network code (MNC):";
+"Signal strength:" = "Signalstärke:";
+"Signal quality:" = "Signalqualität:";
+//SIM Card
+
+
+//Map
+"Standard" = "Standard";
+"Hybrid" = "Hybrid";
+"Satellite" = "Satellit";
+"Map" = "Karte";
+//Map
+
+
+//Overview page
+"Overview Layout" = "Übersichtslayout";
+"Default" = "Standard";
+"Critical" = "Kritisch";
+"Battery expiration" = "Batterieablaufdatum";
+"Electrodes expiration" = "Elektrodenablaufdatum";
+"Signal Strength" = "Signalstärke";
+"Last Self Test:" = "Letzter Selbsttest:";
+"Last Messages" = "Letzte Nachrichten";
+"Address information" = "Adresse";
+"Availability" = "Verfügbarkeit";
+"Connected since:" = "Verbunden seit:";
+"No AED time availability information available" = "Keine Informationen zur AED-Verfügbarkeit verfügbar";
+"No AED access information available" = "Keine Informationen zur AED-Erreichbarkeit verfügbar";
+"Owner:" = "Eigentümer:";
+"Description:" = "Beschreibung:";
+"Active since:" = "Aktiv seit:";
+"Battery & Status" = "Batterie & Status";
+"Expiration & Signal info" = "Ablauf & Signalinfo";
+"Movements" = "Bewegungen";
+"Last Self Test" = "Letzter Selbsttest";
+"Last Messages" = "Letzte Nachrichten";
+"Map & Info" = "Karte & Infos";
+//Overview page
+
+
+//Loading screen
+"is loading" = "lädt";
+"getting bits and bytes" = "Bit und Bytes werden abgerufen";
+//Loading screen
+
+
+//Maps Intro screen
+"New maps" = "Neue Karten";
+"We have updated our map architecture to have better performance, less clutter and a updated user experience" = "Wir haben unsere Kartenarchitektur aktualisiert, um eine bessere Leistung, weniger Unordnung und eine aktualisierte Benutzererfahrung zu erzielen";
+"Pin clusters" = "Pin-Cluster";
+"We have introduced pin clusters, pinch and zoom (out or in) will cluster or un-cluster a amount of pins that are in close reach of each other, resulting is a cleaner look and feel" = "Wir haben Pin-Cluster eingeführt, Pinch und Zoom (heraus oder hinein) werden eine Menge von Pins gruppieren oder entclustern, die sich in unmittelbarer Nähe zueinander befinden, was zu einem saubereren Erscheinungsbild führt";
+"Pin Information" = "Pin-Informationen";
+"To get more detailed information you can click on a pointer, it will show the AED number and the owner" = "Um detailliertere Informationen zu erhalten, können Sie auf einen Zeiger klicken, der die AED-Nummer und den Eigentümer anzeigt";
+"Detailed Information" = "Genaue Information";
+"After you select a pointer and you wish to see more detailed information simply click on the ( i ) button in the upper right of the screen. This will take you to the Detailed Defibrillator page" = "Nachdem Sie einen Zeiger ausgewählt haben und detailliertere Informationen sehen möchten, klicken Sie einfach auf die Schaltfläche ( i ) oben rechts auf dem Bildschirm. Dadurch gelangen Sie zur Detailseite des Defibrillators";
+"Map Types" = "Kartentypen";
+"We have also introduced two extra types of maps, Hybrid and Satellite. If you want to view this onboarding again, go to the dashboard, select About, go to settings and flip the switch." = "Wir haben auch zwei zusätzliche Arten von Karten eingeführt, Hybrid und Satellit. Wenn Sie dieses Onboarding erneut anzeigen möchten, gehen Sie zum Dashboard, wählen Sie Info, gehen Sie zu den Einstellungen und legen Sie den Schalter um.";
+"Hello " = "Hallo ";
+"Skip" = "auslassen";
+//Maps Intro screen

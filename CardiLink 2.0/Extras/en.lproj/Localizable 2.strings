@@ -1,0 +1,387 @@
+/* 
+  Localizable.strings
+  CardiLink 2.0
+
+  Created by Erik Kuipers on 06.07.22.
+  
+*/
+
+
+//Login
+"Remember me" = "Remember me";
+"Forgot your password?" = "Forgot your password?";
+"Your Email / User ID" = "Your Email / User ID";
+"Password" = "Password";
+"Invalid Login Info" = "Invalid Login Info";
+"Please make sure you have entered the correct login information or make sure you have selected a portal." = "Please make sure you have entered the correct login information or make sure you have selected a portal.";
+"Please visit the online portal to get a new password or use the below ITSM link" = "Please visit the online portal to get a new password or use the below ITSM link";
+"Dismiss" = "Dismiss";
+//Login
+
+
+//BLE
+"Bluetooth Onboarding" = "Bluetooth Onboarding";
+"Important Notice" = "Important Notice";
+"Before you start the connecting wizard please make sure you always have only (1) Heart Connect II active, if you have more, the pairing process will not work." = "Before you start the connecting wizard please make sure you always have only (1) Heart Connect II active, if you have more, the pairing process will not work.";
+"Continue" = "Continue";
+
+"First time connecting?" = "First time connecting?";
+"Prepare the Heart Connect II to connect" = "Prepare the Heart Connect II to connect";
+"Heart Connect II is already prepared for connecting" = "Heart Connect II is already prepared for connecting";
+"Enter AED serial number" = "Enter AED serial number";
+
+"Prepare the Heart Connect II to connect" = "Prepare the Heart Connect II to connect";
+"Make sure your bluetooth is on: Settings - Bluetooth " = "Make sure your bluetooth is on: Settings - Bluetooth ";
+"Press and hold down the indication button by using a paper clip or a similar tool for longer than seven seconds until the yellow LED light starts blinking" = "Press and hold down the indication button by using a paper clip or a similar tool for longer than seven seconds until the yellow LED light starts blinking";
+
+"Please enter AED serial number (5 or 6 digits)" = "Please enter AED serial number (5 or 6 digits)";
+"After you tab on continue, the app will make the Bluetooth connection and verify your AED serial number." = "After you tab on continue, the app will make the Bluetooth connection and verify your AED serial number.";
+"Bluetooth issue" = "Bluetooth issue";
+"Please make sure your bluetooth is turned on and check if the app has permission to use it." = "Please make sure your bluetooth is turned on and check if the app has permission to use it.";
+"Incorrect AED Serial Number" = "Incorrect AED Serial Number";
+"Please enter at least 5 numbers!" = "Please enter at least 5 numbers!";
+
+"Bluetooth Connected" = "Bluetooth Connected";
+"BLE Connection UID" = "BLE Connection UID";
+"The AED serial number is successfully verified." = "The AED serial number is successfully verified.";
+"We are unable to verify your AED serial number and will keep on trying." = "We are unable to verify your AED serial number and will keep on trying.";
+"If it is unsuccessful after 3 minutes please try again." = "If it is unsuccessful after 3 minutes please try again.";
+"Close" = "Close";
+//BLE
+
+
+//DashBoard
+"Good Night." = "Good Night.";
+"Good Morning." = "Good Morning.";
+"Good Afternoon." = "Good Afternoon.";
+"Good Evening." = "Good Evening.";
+
+"AED ID/ Description" = "AED ID/ Description";
+"AEDs" = "AEDs";
+"Heart Connects" = "Heart Connects";
+"Connected" = "Connected";
+"Service Tickets" = "Service Tickets";
+"Unavailable" = "Unavailable";
+"Current open" = "Current open";
+"None Open" = "None Open";
+"AEDs with" = "AEDs with";
+"GPS available" = "GPS available";
+"Logout" = "Logout";
+"About" = "About";
+//DashBoard
+
+
+//Search
+"Search Results" = "Search Results";
+"Your search for" = "Your search for";
+"returned the following results" = "returned the following results";
+"Available" = "Available";
+"Overdue / Warning" = "Overdue / Warning";
+"Error / Timeout" = "Error / Timeout";
+"Not monitored" = "Not monitored";
+//Search
+
+
+//About
+"About & User Info" = "About & User Info";
+"90762 Fürth, Germany" = "90762 Fürth, Germany";
+
+"User Information" = "User Information";
+"Login:" = "Login:";
+"Name:" = "Name:";
+"E-Mail Address:" = "E-Mail Address:";
+"Telephone:" = "Telephone:";
+"Mobile phone:" = "Mobile phone:";
+"Telegram:" = "Telegram:";
+"Homepage:" = "Homepage:";
+"Description:" = "Description:";
+
+"Settings" = "Settings";
+"New map introduction" = "New map introduction";
+
+"License Information" = "License Information";
+"Privacy statement" = "Privacy statement";
+"Package Dependencies:" = "Package Dependencies:";
+//About
+
+
+//Defibrillator Main
+"AED" = "AED";
+//Defibrillator Main
+
+
+//Defibrillator Detailed
+"AED" = "AED";
+"Unknown AED" = "Unknown AED";
+"Please try again" = "Please try again";
+"Movements detected" = "Movements detected";
+"Status" = "Status";
+"Dashboard State" = "Dashboard State";
+
+//old
+"Administration State" = "Administration State";
+"Owner" = "Owner";
+//old
+
+"Description" = "Description";
+"Last Self Tests" = "Last Self Tests";
+"Daily" = "Daily";
+
+"Paired with" = "Paired with";
+"Heart Connect" = "Heart Connect";
+"since" = "since";
+//Defibrillator Detailed
+
+
+//Menu
+"Service" = "Service";
+"tickets" = "tickets";
+"Messages" = "Messages";
+"Geo" = "Geo";
+"location" = "location";
+"Hardware" = "Hardware";
+"Self test" = "Self test";
+"Home" = "Home";
+//Menu
+
+
+//Hardware
+"Base Information" = "Base Information";
+"Model:" = "Model:";
+"Language:" = "Language:";
+"Batch ID:" = "Batch ID:";
+"Production Date:" = "Production Date:";
+"Activation Date:" = "Activation Date:";
+
+"PCB Information" = "PCB Information";
+"Serial Number:" = "Serial Number:";
+"Manufacturer:" = "Manufacturer:";
+"Hardware version:" = "Hardware version:";
+"Firmware version:" = "Firmware version:";
+
+"Electrodes Information" = "Electrodes Information";
+"Expiration Date:" = "Expiration Date:";
+
+"Battery Information" = "Battery Information";
+"LOT:" = "LOT:";
+"Battery Percentage:" = "Battery Percentage:";
+
+"Bluetooth" = "Bluetooth";
+"MAC Address:" = "MAC Address:";
+//Hardware
+
+
+//GEO Location
+"Geo location" = "Geo location";
+"Address" = "Address";
+"Street:" = "Street:";
+"House number:" = "House number:";
+"Floor level:" = "Floor level:";
+"Postal Code:" = "Postal Code:";
+"City:" = "City:";
+"Country:" = "Country:";
+"Comment:" = "Comment:";
+
+"Geo position" = "Geo position";
+"Latitude:" = "Latitude:";
+"Longtitude:" = "Longtitude:";
+
+"Geo fence" = "Geo fence";
+"Type:" = "Type:";
+"Circle" = "Circle";
+"Radius: N/A" = "Radius: N/A";
+"Radius:" = "Radius:";
+" Kilometer" = " Kilometer";
+//GEO Location
+
+
+//Messages
+"Messages" = "Messages";
+"AED Cover Open" = "AED Cover Open";
+"GPS" = "GPS";
+"Synced" = "Synced";
+"Paired" = "Paired";
+"Alarm" = "Alarm";
+"Monthly" = "Monthly";
+"Yearly" = "Yearly";
+"Networking Report" = "Networking Report";
+"Bootup" = "Bootup";
+"ERROR" = "ERROR";
+"Motion" = "Motion";
+"Unknown" = "Unknown";
+"In motion" = "In motion";
+"No motion" = "No motion";
+"Transmission attempts" = "Transmission attempts";
+"Battery levels" = "Battery levels";
+"AED is at" = "AED is at";
+"Heart Connect is at" = "Heart Connect is at";
+
+"Battery Errors:" = "Battery Errors:";
+"Yes" = "Yes";
+"No" = "No";
+"Red Errors:" = "Red Errors:";
+"Warnings:" = "Warnings:";
+"AED Visible On Bluetooth" = "AED Visible On Bluetooth ";
+
+"AED Information" = "AED Information";
+"Pad Expiration Date" = "Pad Expiration Date ";
+"AED Model" = "Defibrillator Model ";
+"AED MAC Address" = "Defibrillator MAC Address ";
+
+"Battery Model" = "Battery Model ";
+"Battery Serial Number" = "Battery Serial Number ";
+"Battery Expiration Date" = "Battery Expiration Date ";
+"Activation Date" = "Activation Date ";
+
+"Geo location" = "Geo location";
+
+"Paired devices Information" = "Paired devices Information";
+"Pairing Successful" = "Pairing Successful";
+"Heart Connect Serial" = "Communicator Serial ";
+"AED Serial" = "Defibrillator Serial ";
+
+"Mobile Information" = "Mobile Information";
+"Mobile network operator (MNO):" = "Mobile network operator (MNO):";
+"Mobile Country Code (MCC):" = "Mobile Country Code (MCC):";
+"Signal Strength:" = "Signal Strength:";
+
+"Excellent" = "Excellent";
+"Good" = "Good";
+"Fair" = "Fair";
+"Poor" = "Poor";
+"No Signal" = "No Signal";
+
+"Bootup Information" = "Bootup Information";
+"Bluetooth Chipset Status:" = "Bluetooth Chipset Status:";
+"Bluetooth MAC Address:" = "Bluetooth MAC Address:";
+
+"Error Information" = "Error Information";
+"Category:" = "Category:";
+"Message:" = "Message:";
+
+"Test Information" = "Test Information";
+"Self Test Result:" = "Self Test Result:";
+"Battery Error" = "Battery Error";
+"Red Error" = "Red Error";
+//Messages
+
+
+//Self Tests
+"Self Tests" = "Self Tests";
+"OK" = "OK";
+"Error" = "Error";
+"Uncritical" = "Uncritical";
+"No Warnings" = "No Warnings";
+"No Error" = "No Error";
+"Red Error" = "Red Error";
+"This AED" = "This AED";
+"has no Self Test" = "has no Self Test";
+//Self Tests
+
+
+//Service tickets
+"has no Service Tickets" = "has no Service Tickets";
+"Service Tickets" = "Service Tickets";
+"New" = "New";
+"Author" = "Author";
+"End user" = "End user";
+"Priority" = "Priority";
+"Normal/Default priority" = "Normal/Default priority";
+"Additional info" = "Additional info";
+"Service Ticket Number" = "Service Ticket Number";
+"Problem description" = "Problem description";
+"Affected device:" = "Affected device:";
+"AED Serial:" = "AED Serial:";
+"Heart Connect Serial:" = "Heart Connect Serial:";
+//Service tickets
+
+
+//Communicators Detailed
+"Heart Connects" = "Heart Connects";
+"Unknown Heart Connect" = "Unknown Heart Connect";
+"Initial Bootup Date:" = "Initial Bootup Date:";
+//Communicators Detailed
+
+
+//Communicators menu
+"SIM Card" = "SIM Card";
+//Communicators menu
+
+
+//Communicators Hardware
+"Model" = "Model";
+"Firmware Version " = "Firmware Version ";
+"Battery Percentage " = "Battery Percentage ";
+"Internal Checks" = "Internal Checks";
+"Bootup Status:" = "Bootup Status:";
+"Success" = "Success";
+"Failed" = "Failed";
+"Bluetooth chipset:" = "Bluetooth chipset:";
+"Bluetooth MAC address:" = "Bluetooth MAC address:";
+//Communicators Hardware
+
+
+//SIM Card
+"SIM Card Information" = "SIM Card Information";
+"SIM card Id:" = "SIM card Id:";
+"Mobile country code (MCC):" = "Mobile country code (MCC):";
+"Mobile network code (MNC):" = "Mobile network code (MNC):";
+"Signal strength:" = "Signal strength:";
+"Signal quality:" = "Signal quality:";
+//SIM Card
+
+
+//Map
+"Standard" = "Standard";
+"Hybrid" = "Hybrid";
+"Satellite" = "Satellite";
+"Map" = "Map";
+//Map
+
+
+//Overview page
+"Overview Layout" = "Overview Layout";
+"Default" = "Default";
+"Critical" = "Critical";
+"Battery expiration" = "Battery expiration";
+"Electrodes expiration" = "Electrodes expiration";
+"Signal Strength" = "Signal Strength";
+"Last Self Test:" = "Last Self Test:";
+"Last Messages" = "Last Messages";
+"Address information" = "Address information";
+"Availability" = "Availability";
+"Connected since:" = "Connected since:";
+"No AED time availability information available" = "No AED time availability information available";
+"No AED access information available" = "No AED access information available";
+"Owner:" = "Owner:";
+"Description:" = "Description:";
+"Active since:" = "Active since:";
+"Battery & Status" = "Battery & Status";
+"Expiration & Signal info" = "Expiration & Signal info";
+"Movements" = "Movements";
+"Last Self Test" = "Last Self Test";
+"Last Messages" = "Last Messages";
+"Map & Info" = "Map & Info";
+//Overview page
+
+
+//Loading screen
+"is loading" = "is loading";
+"getting bits and bytes" = "getting bits and bytes";
+//Loading screen
+
+
+//Maps Intro screen
+"New maps" = "New maps";
+"We have updated our map architecture to have better performance, less clutter and a updated user experience" = "We have updated our map architecture to have better performance, less clutter and a updated user experience";
+"Pin clusters" = "Pin clusters";
+"We have introduced pin clusters, pinch and zoom (out or in) will cluster or un-cluster a amount of pins that are in close reach of each other, resulting is a cleaner look and feel" = "We have introduced pin clusters, pinch and zoom (out or in) will cluster or un-cluster a amount of pins that are in close reach of each other, resulting is a cleaner look and feel";
+"Pin Information" = "Pin Information";
+"To get more detailed information you can click on a pointer, it will show the AED number and the owner" = "To get more detailed information you can click on a pointer, it will show the AED number and the owner";
+"Detailed Information" = "Detailed Information";
+"After you select a pointer and you wish to see more detailed information simply click on the ( i ) button in the upper right of the screen. This will take you to the Detailed Defibrillator page" = "After you select a pointer and you wish to see more detailed information simply click on the ( i ) button in the upper right of the screen. This will take you to the Detailed Defibrillator page";
+"Map Types" = "Map Types";
+"We have also introduced two extra types of maps, Hybrid and Satellite. If you want to view this onboarding again, go to the dashboard, select About, go to settings and flip the switch." = "We have also introduced two extra types of maps, Hybrid and Satellite. If you want to view this onboarding again, go to the dashboard, select About, go to settings and flip the switch.";
+"Hello " = "Hello ";
+"Skip" = "Skip";
+//Maps Intro screen

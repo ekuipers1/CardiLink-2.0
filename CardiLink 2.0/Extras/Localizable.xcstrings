@@ -1,0 +1,5418 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "" : {
+
+    },
+    " " : {
+
+    },
+    " %" : {
+
+    },
+    " Hardware " : {
+
+    },
+    " Kilometer" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " Kilometer"
+          }
+        }
+      }
+    },
+    " Meter" : {
+
+    },
+    "-" : {
+
+    },
+    "**%@**" : {
+
+    },
+    "**Is the indicator on the AED still green?**" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "**Die Anzeige am AED ist weiterhin grün?**"
+          }
+        }
+      }
+    },
+    "%" : {
+
+    },
+    "%@" : {
+
+    },
+    "%@ %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ %2$@"
+          }
+        }
+      }
+    },
+    "%lld" : {
+
+    },
+    "000000" : {
+
+    },
+    "0000000000" : {
+
+    },
+    "6. OG OST " : {
+
+    },
+    "90762 Fürth, Germany" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "90762 Fürth, Deutschland"
+          }
+        }
+      }
+    },
+    "About" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Infos"
+          }
+        }
+      }
+    },
+    "About & User Info" : {
+      "comment" : "About",
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " Informationen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "About & User Info"
+          }
+        }
+      }
+    },
+    "Activate AED" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AED aktivieren"
+          }
+        }
+      }
+    },
+    "Activation code:" : {
+
+    },
+    "Activation Date" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aktivierungsdatum"
+          }
+        }
+      }
+    },
+    "Activation date:" : {
+
+    },
+    "Activation Date:" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aktivierungsdatum:"
+          }
+        }
+      }
+    },
+    "Activation Failed" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pairing fehlgeschlagen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pairing Failed"
+          }
+        }
+      }
+    },
+    "Activation SIM Card:" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aktivierung SIM-Karte:"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Activation SIM Card:"
+          }
+        }
+      }
+    },
+    "Activation status:" : {
+
+    },
+    "Activation URL:" : {
+
+    },
+    "Active since:" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seit:"
+          }
+        }
+      }
+    },
+    "Add" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hinzufügen"
+          }
+        }
+      }
+    },
+    "Add AED" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AED hinzufügen"
+          }
+        }
+      }
+    },
+    "Add More" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mehr hinzufügen"
+          }
+        }
+      }
+    },
+    "Add/Update - Switch to 24/7" : {
+
+    },
+    "Additional directions to easily find the AED" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zusätzliche Wegbeschreibung, um den AED leicht zu finden:"
+          }
+        }
+      }
+    },
+    "Additional info" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zusätzliche Information"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Additional info"
+          }
+        }
+      }
+    },
+    "Additional Information" : {
+
+    },
+    "Additional Location Information" : {
+
+    },
+    "Address" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Adresse"
+          }
+        }
+      }
+    },
+    "Address information" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Adresse"
+          }
+        }
+      }
+    },
+    "Address Information" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Address Information"
+          }
+        }
+      }
+    },
+    "Administration State" : {
+      "comment" : "old",
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verwaltungsstaat"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Administration State"
+          }
+        }
+      }
+    },
+    "Administration Status" : {
+
+    },
+    "AED" : {
+      "comment" : "Defibrillator Detailed",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AED"
+          }
+        }
+      }
+    },
+    "AED (ready for operation)." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AED (betriebsbereit)."
+          }
+        }
+      }
+    },
+    "AED Activation" : {
+      "comment" : "AED Add Device NEW",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AED Aktivierung"
+          }
+        }
+      }
+    },
+    "AED Added" : {
+      "comment" : "AD_22_LocationEnd",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AED hinzugefügt"
+          }
+        }
+      }
+    },
+    "AED Code" : {
+
+    },
+    "AED Cover Open" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AED geöffnet"
+          }
+        }
+      }
+    },
+    "AED GPS coordinates" : {
+      "comment" : "AD_13_LocationMap",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "GPS-Koordinaten des AED"
+          }
+        }
+      }
+    },
+    "AED ID/ Description" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AED-ID/ Beschreibung"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AED ID/ Description"
+          }
+        }
+      }
+    },
+    "AED Information" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AED-Informationen"
+          }
+        }
+      }
+    },
+    "AED is at" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AED is at"
+          }
+        }
+      }
+    },
+    "AED is at " : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AED ist an "
+          }
+        }
+      }
+    },
+    "AED is publicly accessible" : {
+
+    },
+    "AED MAC Address" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AED MAC-Adresse:"
+          }
+        }
+      }
+    },
+    "AED Model" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AED-Modell"
+          }
+        }
+      }
+    },
+    "AED Movements" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AED Bewegungen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AED Movements"
+          }
+        }
+      }
+    },
+    "AED Serial" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AED-Seriennummer"
+          }
+        }
+      }
+    },
+    "AED serial number" : {
+      "comment" : "AD_02_CardiaSerialSelect",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AED Seriennummer"
+          }
+        }
+      }
+    },
+    "AED serial number." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seriennummer des AED."
+          }
+        }
+      }
+    },
+    "AED Serial:" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seriennummer des AED:"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AED Serial:"
+          }
+        }
+      }
+    },
+    "AED visible on bluetooth" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AED ist via Bluetooth sichtbar:"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AED visible on bluetooth "
+          }
+        }
+      }
+    },
+    "AED:" : {
+
+    },
+    "AED:%@" : {
+
+    },
+    "AEDs" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AEDs"
+          }
+        }
+      }
+    },
+    "AEDs with" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AEDs mit"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AEDs with"
+          }
+        }
+      }
+    },
+    "Affected device:" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Betroffenes Gerät:"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Affected device:"
+          }
+        }
+      }
+    },
+    "After you select a pointer and you wish to see more detailed information simply click on the ( i ) button in the upper right of the screen. This will take you to the Detailed Defibrillator page" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nachdem Sie einen Zeiger ausgewählt haben und detailliertere Informationen sehen möchten, klicken Sie einfach auf die Schaltfläche ( i ) oben rechts auf dem Bildschirm. Dadurch gelangen Sie zur Detailseite des Defibrillators"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "After you select a pointer and you wish to see more detailed information simply click on the ( i ) button in the upper right of the screen. This will take you to the Detailed Defibrillator page"
+          }
+        }
+      }
+    },
+    "After you tab on continue, the app will make the Bluetooth connection and verify your AED serial number." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nachdem Sie auf Weiter geklickt haben, stellt die App die Bluetooth-Verbindung her und verifiziert Ihre AED-Seriennummer."
+          }
+        }
+      }
+    },
+    "Agree" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zustimmung"
+          }
+        }
+      }
+    },
+    "Alamofire" : {
+
+    },
+    "Alarm" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ALARM"
+          }
+        }
+      }
+    },
+    "Allow CardiLink to share the data" : {
+
+    },
+    "Appearance" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erscheinungsbild"
+          }
+        }
+      }
+    },
+    "Are you currently at the location where the AED will be installed?" : {
+      "comment" : "\"Location information\" = \"Location information\";",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Befinden Sie sich derzeit an dem Ort, an dem der AED installiert wird?"
+          }
+        }
+      }
+    },
+    "Are you willing to make the information about your AED available to the public in order to potentially save lives in emergency situations?" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Helfen Sie Helfern, indem Sie Ihren AED in öffentlichen Katastern veröffentlichen. Dürfen wir die Informationen über Ihren AED mit Dritten teilen?"
+          }
+        }
+      }
+    },
+    "Assembly Date:" : {
+
+    },
+    "Author" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Autor"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Author"
+          }
+        }
+      }
+    },
+    "Automatic location" : {
+      "comment" : "AD_121_LocationPosition",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Automatischer Standort"
+          }
+        }
+      }
+    },
+    "Availability" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verfügbarkeit"
+          }
+        }
+      }
+    },
+    "Available" : {
+      "comment" : "Listview",
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verfügbar"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Available"
+          }
+        }
+      }
+    },
+    "Available 24/7" : {
+
+    },
+    "Bar" : {
+
+    },
+    "Base Information" : {
+      "comment" : "Hardware",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Basisinformationen"
+          }
+        }
+      }
+    },
+    "Batch ID:" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Batch-ID:"
+          }
+        }
+      }
+    },
+    "Batch:" : {
+
+    },
+    "Battery & Status" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Batterie & Status"
+          }
+        }
+      }
+    },
+    "Battery Error" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Batteriefehler"
+          }
+        }
+      }
+    },
+    "Battery Errors:" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Batteriefehler:"
+          }
+        }
+      }
+    },
+    "Battery expiration" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Batterieablaufdatum"
+          }
+        }
+      }
+    },
+    "Battery Information" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Batterie-Information"
+          }
+        }
+      }
+    },
+    "Battery levels" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Batteriekapazität"
+          }
+        }
+      }
+    },
+    "Battery Model" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Batteriemodell"
+          }
+        }
+      }
+    },
+    "Battery OK" : {
+
+    },
+    "Battery Percentage" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Batteriekapazität in %"
+          }
+        }
+      }
+    },
+    "Battery Percentage " : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Battery Percentage "
+          }
+        }
+      }
+    },
+    "Battery Percentage:" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Batteriekapazität"
+          }
+        }
+      }
+    },
+    "Battery Serial Number" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Batterieseriennummer"
+          }
+        }
+      }
+    },
+    "Battery until" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Batterie bis"
+          }
+        }
+      }
+    },
+    "Before you start the connection wizard, please make sure that only (1) Heart Connect II is active at any time; if any more are connected, the pairing process will not work." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bevor Sie den Verbindungsassistenten starten, vergewissern Sie sich bitte, dass immer nur (1) Heart Connect II in Ihrer Nähe im Kopplungsmodus aktiv  ist; wenn Sie mehr haben, funktioniert der Kopplungsprozess nicht."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Before you start the connection wizard, please make sure that only (1) Heart Connect II is active at any time; if any more are connected, the pairing process will not work."
+          }
+        }
+      }
+    },
+    "BLE Connection UID" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "BLE-Verbindungs-UID"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "BLE Connection UID"
+          }
+        }
+      }
+    },
+    "Bluetooth" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bluetooth"
+          }
+        }
+      }
+    },
+    "Bluetooth Chipset Status:" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bluetooth Chipset Status:"
+          }
+        }
+      }
+    },
+    "Bluetooth chipset:" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bluetooth Chipset:"
+          }
+        }
+      }
+    },
+    "Bluetooth Connected" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bluetooth verbunden"
+          }
+        }
+      }
+    },
+    "Bluetooth issue" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bluetooth-Problem"
+          }
+        }
+      }
+    },
+    "Bluetooth MAC address:" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bluetooth Mac Adresse:"
+          }
+        }
+      }
+    },
+    "Bluetooth MAC Address:" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bluetooth Mac Adresse:"
+          }
+        }
+      }
+    },
+    "Bluetooth Onboarding" : {
+      "comment" : "BLE",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bluetooth-Einrichtung"
+          }
+        }
+      }
+    },
+    "Bootup" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "BOOTUP"
+          }
+        }
+      }
+    },
+    "Bootup Information" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bootup Information"
+          }
+        }
+      }
+    },
+    "Bootup Status:" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bootup Status:"
+          }
+        }
+      }
+    },
+    "By agreeing you confirm your AED address to be published and shared with the public." : {
+
+    },
+    "By agreeing, you consent to CardiLink automatically sharing AED information (e.g., location data, operating status) needed by first responders." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mit Ihrer Zustimmung geben Sie Ihre Einwilligung, dass von Ersthelfern benötigte Informationen des AED (z.B. Standortdaten, Betriebszustand) automatisiert von CardiLink weitergegeben werden."
+          }
+        }
+      }
+    },
+    "Cabinet needs PIN to open?" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gehäuse öffnet nur mit einem PIN?"
+          }
+        }
+      }
+    },
+    "Cancel" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abbrechen"
+          }
+        }
+      }
+    },
+    "Cardiac Science (now ZOLL)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cardiac Science (jetzt ZOLL)"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cardiac Science (now ZOLL)"
+          }
+        }
+      }
+    },
+    "CardiLink 2.0 Version: %@ %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "CardiLink 2.0 Version: %1$@ %2$@"
+          }
+        }
+      }
+    },
+    "CardiLink GmbH" : {
+
+    },
+    "CardiLink HeartConnect (Optional)." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CardiLink HeartConnect (optional)."
+          }
+        }
+      }
+    },
+    "Category:" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kategorie:"
+          }
+        }
+      }
+    },
+    "Change password" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Passwort ändern"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Change Password"
+          }
+        }
+      }
+    },
+    "Change Password" : {
+
+    },
+    "Change?" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "GPS neu ermitteln?"
+          }
+        }
+      }
+    },
+    "Check pairing status" : {
+      "comment" : "AD_08_CardiaPairingStages",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pairing Status wird geprüft"
+          }
+        }
+      }
+    },
+    "Check pairing status of your HeartConnect" : {
+
+    },
+    "Circle" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Umkreis"
+          }
+        }
+      }
+    },
+    "City" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stadt"
+          }
+        }
+      }
+    },
+    "City:" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stadt:"
+          }
+        }
+      }
+    },
+    "Clear all" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alle löschen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Clear all"
+          }
+        }
+      }
+    },
+    "Close" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Schliessen"
+          }
+        }
+      }
+    },
+    "Comment:" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kommentar:"
+          }
+        }
+      }
+    },
+    "Comments" : {
+
+    },
+    "Communicator Information" : {
+
+    },
+    "Communicator Serial" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Heart Connect-Seriennummer"
+          }
+        }
+      }
+    },
+    "Communicator Serial:" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seriennummer des Heart Connects:"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Communicator Serial:"
+          }
+        }
+      }
+    },
+    "Confirm" : {
+      "comment" : "AD_032_CardiaSerial_Type",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bestätigen"
+          }
+        }
+      }
+    },
+    "Connected" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verbunden"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Connected"
+          }
+        }
+      }
+    },
+    "Continue" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Weiter"
+          }
+        }
+      }
+    },
+    "Country" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Land"
+          }
+        }
+      }
+    },
+    "Country:" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Land:"
+          }
+        }
+      }
+    },
+    "Cover is closed" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deckel ist geschlossen"
+          }
+        }
+      }
+    },
+    "Critical Notice" : {
+
+    },
+    "Current open" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gerade geöffnet"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Current open"
+          }
+        }
+      }
+    },
+    "Daily" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Daily"
+          }
+        }
+      }
+    },
+    "Dark" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dunkel"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dark"
+          }
+        }
+      }
+    },
+    "Dashboard" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dashboard öffnen"
+          }
+        }
+      }
+    },
+    "Dashboard State" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dashboard-Status"
+          }
+        }
+      }
+    },
+    "Date of commissioning:" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Datum der Inbetriebnahme:"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Date of commissioning:"
+          }
+        }
+      }
+    },
+    "Default" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Standard"
+          }
+        }
+      }
+    },
+    "Default (System setting)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Standard (Systemeinstellung)"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Default (System setting)"
+          }
+        }
+      }
+    },
+    "Delivery Date:" : {
+
+    },
+    "Description" : {
+      "comment" : "old",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Beschreibung"
+          }
+        }
+      }
+    },
+    "Description:" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Beschreibung:"
+          }
+        }
+      }
+    },
+    "Description: N/A" : {
+
+    },
+    "Detailed Information" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Genaue Information"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Detailed Information"
+          }
+        }
+      }
+    },
+    "Details about the installation location of your AED." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Details zum Installationsort"
+          }
+        }
+      }
+    },
+    "Device Firmware:" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geräte-Firmware:"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Device Firmware:"
+          }
+        }
+      }
+    },
+    "Directions" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wegbeschreibung"
+          }
+        }
+      }
+    },
+    "Dismiss" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Schliessen"
+          }
+        }
+      }
+    },
+    "DIY" : {
+
+    },
+    "Do you agree to share the information bout your AED with the public, to save lives in case of emergency?" : {
+
+    },
+    "Do you have a CardiLink HeartConnect?" : {
+      "comment" : "AD_04_IotStart",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Haben Sie einen CardiLink HeartConnect?"
+          }
+        }
+      }
+    },
+    "Do you want motion detection enabled?" : {
+
+    },
+    "Do you want to add a CardiAid AED" : {
+
+    },
+    "Do you want to add a Nihon Kohden AED" : {
+
+    },
+    "Do you want to add a picture of the AED and location?" : {
+      "comment" : "\"Location information\" = \"Location information\";",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Möchten Sie ein Foto des Standorts hochladen?"
+          }
+        }
+      }
+    },
+    "Do you want to upload a photo of the location?" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Möchten Sie Bilder des Standorts hinzufügen?"
+          }
+        }
+      }
+    },
+    "Done" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fertig"
+          }
+        }
+      }
+    },
+    "E-Mail Address:" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "E-Mailadresse:"
+          }
+        }
+      }
+    },
+    "e.g. Ground floor" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "z.B. Erdgeschoss"
+          }
+        }
+      }
+    },
+    "Edit" : {
+
+    },
+    "Edit your address" : {
+
+    },
+    "Electrodes expiration" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elektrodenablaufdatum"
+          }
+        }
+      }
+    },
+    "Electrodes Information" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elektroden-Information"
+          }
+        }
+      }
+    },
+    "Enable/Disable all" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alle aktivieren/deaktivieren"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enable/Disable all"
+          }
+        }
+      }
+    },
+    "End user" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "End user"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "End user"
+          }
+        }
+      }
+    },
+    "Enter AED serial number" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AED Seriennummer eingeben"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enter AED serial number"
+          }
+        }
+      }
+    },
+    "Enter manually" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Manuell eingeben"
+          }
+        }
+      }
+    },
+    "Enter serial number" : {
+
+    },
+    "Error" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fehler"
+          }
+        }
+      }
+    },
+    "ERROR" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ERROR"
+          }
+        }
+      }
+    },
+    "Error / Timeout" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fehler / Timeout"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Error / Timeout"
+          }
+        }
+      }
+    },
+    "Error Information" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fehlerinformation"
+          }
+        }
+      }
+    },
+    "Error: %@" : {
+
+    },
+    "Excellent" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Exzellent"
+          }
+        }
+      }
+    },
+    "Expiration & Signal info" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ablauf & Signalinfo"
+          }
+        }
+      }
+    },
+    "Expiration date of battery:" : {
+
+    },
+    "Expiration date of electrode:" : {
+
+    },
+    "Expiration Date:" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ablaufdatum:"
+          }
+        }
+      }
+    },
+    "Failed" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fehler"
+          }
+        }
+      }
+    },
+    "Fair" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ausreichend"
+          }
+        }
+      }
+    },
+    "Finish Pairing" : {
+      "comment" : "AD_09_CardiaPairingCloseCover",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pairing erfolgreich"
+          }
+        }
+      }
+    },
+    "Firmware Version" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Firmware Version"
+          }
+        }
+      }
+    },
+    "Firmware Version " : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Firmware Version "
+          }
+        }
+      }
+    },
+    "Firmware version:" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Firmware Version:"
+          }
+        }
+      }
+    },
+    "Firmware:" : {
+
+    },
+    "First time connecting?" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sie richten ein Gerät zum ersten mal ein?"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "First time connecting?"
+          }
+        }
+      }
+    },
+    "Floor" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Etage/Stockwerk"
+          }
+        }
+      }
+    },
+    "Floor level" : {
+      "comment" : "AD_14_LocationAdditional",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Etage/Stockwerk"
+          }
+        }
+      }
+    },
+    "Floor level:" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erdgeschoss:"
+          }
+        }
+      }
+    },
+    "For testing only" : {
+
+    },
+    "FOR TESTING ONLY" : {
+
+    },
+    "Forgot your password?" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Passwort vergessen?"
+          }
+        }
+      }
+    },
+    "Friday" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Freitag"
+          }
+        }
+      }
+    },
+    "from" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "von"
+          }
+        }
+      }
+    },
+    "From" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Von"
+          }
+        }
+      }
+    },
+    "from %@" : {
+
+    },
+    "Fully Automatic" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vollautomat"
+          }
+        }
+      }
+    },
+    "Gebhardtstraße 28" : {
+
+    },
+    "Geo" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geo"
+          }
+        }
+      }
+    },
+    "Geo fence" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geofence"
+          }
+        }
+      }
+    },
+    "Geo location" : {
+      "comment" : "GEO Location",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "GEO-Standort"
+          }
+        }
+      }
+    },
+    "Geo position" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geo-Standorte"
+          }
+        }
+      }
+    },
+    "Geocoordinates" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geokoordinaten"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geocoordinates"
+          }
+        }
+      }
+    },
+    "getting bits and bytes" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bit und Bytes werden abgerufen"
+          }
+        }
+      }
+    },
+    "Go to Settings" : {
+
+    },
+    "Good" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gut"
+          }
+        }
+      }
+    },
+    "Good Afternoon." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Schönen Nachmittag."
+          }
+        }
+      }
+    },
+    "Good Evening." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Schönen Abend."
+          }
+        }
+      }
+    },
+    "Good Morning." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guten Morgen."
+          }
+        }
+      }
+    },
+    "Good Night." : {
+      "comment" : "DashBoard",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gute Nacht."
+          }
+        }
+      }
+    },
+    "GPS" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "GPS"
+          }
+        }
+      }
+    },
+    "GPS antennas: attached" : {
+
+    },
+    "GPS antennas: not attached" : {
+
+    },
+    "GREEN" : {
+
+    },
+    "Hardware" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hardware"
+          }
+        }
+      }
+    },
+    "Hardware version:" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hardware Version:"
+          }
+        }
+      }
+    },
+    "has no Self Test" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hat keinen Selbsttest"
+          }
+        }
+      }
+    },
+    "has no Service Tickets" : {
+      "comment" : "Service tickets",
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hat keine Service-Tickets"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "has no Service Tickets"
+          }
+        }
+      }
+    },
+    "Heart Connect" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Heart Connect"
+          }
+        }
+      }
+    },
+    "Heart Connect is at" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Heart Connect is at"
+          }
+        }
+      }
+    },
+    "Heart Connect is at " : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Heart Connect ist an "
+          }
+        }
+      }
+    },
+    "Heart Connect is blinking" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "HeartConnect blinkt"
+          }
+        }
+      }
+    },
+    "Heart Connects" : {
+      "comment" : "Communicators Detailed",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Heart Connects"
+          }
+        }
+      }
+    },
+    "HeartConnect Onboarding" : {
+
+    },
+    "Hello " : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hallo "
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hello "
+          }
+        }
+      }
+    },
+    "Help saving lives!" : {
+      "comment" : "AD_20_LocationShareData",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Helfen Sie Leben retten!"
+          }
+        }
+      }
+    },
+    "Hi," : {
+      "comment" : "AD_01_Intro",
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hallo,"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hi,"
+          }
+        }
+      }
+    },
+    "Hold the marker at the bottom and move it for new GPS coordinates." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Halten Sie den Marker am unteren Ende und bewegen Sie diesen für neue GPS-Koordinaten."
+          }
+        }
+      }
+    },
+    "Home" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zuhause"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Home"
+          }
+        }
+      }
+    },
+    "Homepage:" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Homepage:"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Homepage:"
+          }
+        }
+      }
+    },
+    "House number" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hausnummer"
+          }
+        }
+      }
+    },
+    "House number:" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hausnummer:"
+          }
+        }
+      }
+    },
+    "https://cardilink.atlassian.net/servicedesk/customer/portal/1" : {
+
+    },
+    "https://www.cardi-link.com/PrivacyEnglish.html" : {
+
+    },
+    "Hybrid" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hybrid"
+          }
+        }
+      }
+    },
+    "I am ready, let’s start." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ich bin bereit, lass uns beginnen."
+          }
+        }
+      }
+    },
+    "If it is unsuccessful after 3 minutes please try again." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wenn es nach 3 Minuten immer noch nicht erfolgreich ist, versuchen Sie es bitte erneut."
+          }
+        }
+      }
+    },
+    "IMEI: " : {
+
+    },
+    "Important Notice" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wichtige!"
+          }
+        }
+      }
+    },
+    "IMSI: " : {
+
+    },
+    "In motion" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MOTION"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "In motion"
+          }
+        }
+      }
+    },
+    "Incorrect AED Serial Number" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Falsche AED-Seriennummer"
+          }
+        }
+      }
+    },
+    "Information about the public availability of your AED." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Informationen über die öffentliche Verfügbarkeit Ihres AED."
+          }
+        }
+      }
+    },
+    "Initial Bootup Date:" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erstmalige Inbetriebnahme:"
+          }
+        }
+      }
+    },
+    "Internal Checks" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Interne Überprüfungen"
+          }
+        }
+      }
+    },
+    "Invalid Login Info" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ungültige Anmeldedaten"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Invalid Login Info"
+          }
+        }
+      }
+    },
+    "Is a CardiLink communicator included with your AED?" : {
+      "comment" : "noniot",
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ist ein CardiLink-Kommunikator im Lieferumfang Ihres AED enthalten?"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Is a CardiLink communicator included with your AED?"
+          }
+        }
+      }
+    },
+    "Is it available 24/7 ?" : {
+      "comment" : "AD_15_LocationAvailability",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AED ist 24/7 erreichbar?"
+          }
+        }
+      }
+    },
+    "is loading" : {
+      "comment" : "Loading screen",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "lädt"
+          }
+        }
+      }
+    },
+    "Is the AED public available?" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ist der AED öffentlich zugänglich?"
+          }
+        }
+      }
+    },
+    "Is the AED publicly available?" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Veröffentlichen Sie Informationen über den AED?"
+          }
+        }
+      }
+    },
+    "Is the location correct?" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ist der Standort korrekt?"
+          }
+        }
+      }
+    },
+    "is updated!" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "wurden aktualisiert!"
+          }
+        }
+      }
+    },
+    "IT Service Management CardiLink" : {
+
+    },
+    "Language" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sprache"
+          }
+        }
+      }
+    },
+    "Language:" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sprache:"
+          }
+        }
+      }
+    },
+    "Last Message" : {
+
+    },
+    "Last Messages" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Letzte Nachrichten"
+          }
+        }
+      }
+    },
+    "Last Self Test" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Letzter Selbsttest"
+          }
+        }
+      }
+    },
+    "Last Self Test:" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Letzter Selbsttest:"
+          }
+        }
+      }
+    },
+    "Last Self Tests" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Letzter Selbsttests"
+          }
+        }
+      }
+    },
+    "latitude" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Breitengrad"
+          }
+        }
+      }
+    },
+    "Latitude:" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Breitengrad:"
+          }
+        }
+      }
+    },
+    "Let’s get started activating your AED. \n\nIn the following process you need:" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lassen Sie uns mit der Aktivierung Ihres AED beginnen. \n\nIm folgenden Prozess benötigen Sie:"
+          }
+        }
+      }
+    },
+    "License Information" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lizenzinformation"
+          }
+        }
+      }
+    },
+    "LIFEPAK CR 1000 with ECG" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LIFEPAK CR 1000 mit EKG"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LIFEPAK CR 1000 with ECG"
+          }
+        }
+      }
+    },
+    "Light" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hell"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Light"
+          }
+        }
+      }
+    },
+    "Live" : {
+
+    },
+    "Loading..." : {
+
+    },
+    "location" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Standort"
+          }
+        }
+      }
+    },
+    "Location Access Denied" : {
+
+    },
+    "Location information" : {
+      "comment" : "AD_11_CardiaPairingRedGreen",
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Standort"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Location information"
+          }
+        }
+      }
+    },
+    "Location Information" : {
+
+    },
+    "Log In Again" : {
+
+    },
+    "Login" : {
+
+    },
+    "Login Error" : {
+
+    },
+    "Login in progress..." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anmeldung läuft..."
+          }
+        }
+      }
+    },
+    "Login:" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Login:"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Login:"
+          }
+        }
+      }
+    },
+    "Logout" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abmeldung"
+          }
+        }
+      }
+    },
+    "longitude" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Längengrad"
+          }
+        }
+      }
+    },
+    "Longitude:" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Längengrad:"
+          }
+        }
+      }
+    },
+    "Looks good" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sieht gut aus"
+          }
+        }
+      }
+    },
+    "LOT" : {
+
+    },
+    "LOT " : {
+
+    },
+    "LOT:" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LOT:"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LOT:"
+          }
+        }
+      }
+    },
+    "MAC Address:" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MAC-Adresse:"
+          }
+        }
+      }
+    },
+    "Make sure that there is only one HeartConnect in pairing mode nearby!" : {
+      "comment" : "AD_05_CardiaOnboarding",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Achten Sie darauf, dass sich nur ein HeartConnect im Pairing-Modus in der Nähe befindet!"
+          }
+        }
+      }
+    },
+    "Make sure your bluetooth is on: Settings - Bluetooth" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stellen Sie sicher, dass Ihr Bluetooth eingeschaltet ist: Geräteeinstellungen - Bluetooth"
+          }
+        }
+      }
+    },
+    "Make sure your bluetooth is on: Settings - Bluetooth " : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Make sure your bluetooth is on: Settings - Bluetooth "
+          }
+        }
+      }
+    },
+    "Manage push notifications" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Push-Benachrichtigungen verwalten"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Manage push notifications"
+          }
+        }
+      }
+    },
+    "Manual Location" : {
+      "comment" : "AD_122_LocationAddress",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Manuelle Standortbestimmung"
+          }
+        }
+      }
+    },
+    "Manufacturer" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hersteller"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Manufacturer"
+          }
+        }
+      }
+    },
+    "Manufacturer:" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hersteller:"
+          }
+        }
+      }
+    },
+    "Map" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Karte"
+          }
+        }
+      }
+    },
+    "Map & Info" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Karte & Infos"
+          }
+        }
+      }
+    },
+    "Map Types" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kartentypen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Map Types"
+          }
+        }
+      }
+    },
+    "Mark all as read" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alle als gelesen markieren"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mark all as read"
+          }
+        }
+      }
+    },
+    "Message:" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nachricht:"
+          }
+        }
+      }
+    },
+    "Messages" : {
+      "comment" : "Messages",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mitteilungen"
+          }
+        }
+      }
+    },
+    "Minimum" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Minimum"
+          }
+        }
+      }
+    },
+    "Mobile country code (MCC):" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mobile country code (MCC):"
+          }
+        }
+      }
+    },
+    "Mobile Country Code (MCC):" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mobile Country Code (MCC):"
+          }
+        }
+      }
+    },
+    "Mobile Information" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mobilfunknetz"
+          }
+        }
+      }
+    },
+    "Mobile network code (MNC):" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "obile network code (MNC):"
+          }
+        }
+      }
+    },
+    "Mobile network operator (MNO):" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mobile network operator (MNO):"
+          }
+        }
+      }
+    },
+    "Mobile phone:" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mobilnummer:"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mobile phone:"
+          }
+        }
+      }
+    },
+    "Model" : {
+      "comment" : "Communicators Hardware",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Modell"
+          }
+        }
+      }
+    },
+    "Model:" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Modell:"
+          }
+        }
+      }
+    },
+    "Monday" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Montag"
+          }
+        }
+      }
+    },
+    "Monthly" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MONTHLY"
+          }
+        }
+      }
+    },
+    "Motion" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MOTION"
+          }
+        }
+      }
+    },
+    "Motion configuration" : {
+
+    },
+    "Movements" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bewegungen"
+          }
+        }
+      }
+    },
+    "Movements detected" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bewegung erkannt"
+          }
+        }
+      }
+    },
+    "My AED is inside a cabinet" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AED ist in einem Gehäuse"
+          }
+        }
+      }
+    },
+    "My AED is outside the building" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AED ist außerhalb des Gebäudes"
+          }
+        }
+      }
+    },
+    "N/A" : {
+
+    },
+    "Name:" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Name:"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Name:"
+          }
+        }
+      }
+    },
+    "Networking Report" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "NETWORKINGREPORT"
+          }
+        }
+      }
+    },
+    "New" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Neu"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "New"
+          }
+        }
+      }
+    },
+    "New GPS coordinates" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Neue GPS-Koordinaten"
+          }
+        }
+      }
+    },
+    "New map introduction" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Neue Karteneinführung"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "New map introduction"
+          }
+        }
+      }
+    },
+    "New maps" : {
+      "comment" : "Maps Intro screen",
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Neue Karten"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "New maps"
+          }
+        }
+      }
+    },
+    "New Password" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Neues Passwort"
+          }
+        }
+      }
+    },
+    "next" : {
+
+    },
+    "Next" : {
+      "comment" : "AD_19_ImagesSelection",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Weiter"
+          }
+        }
+      }
+    },
+    "No" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nein"
+          }
+        }
+      }
+    },
+    "NO" : {
+
+    },
+    "No AED access information available" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keine Informationen zur AED-Erreichbarkeit verfügbar"
+          }
+        }
+      }
+    },
+    "No AED time availability information available" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keine Informationen zur AED-Verfügbarkeit verfügbar"
+          }
+        }
+      }
+    },
+    "No Data Available" : {
+
+    },
+    "No Error" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kein Fehler"
+          }
+        }
+      }
+    },
+    "No motion" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MOTION STOPPED"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No motion"
+          }
+        }
+      }
+    },
+    "No Signal" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kein Signal"
+          }
+        }
+      }
+    },
+    "No Warnings" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keine Warnungen"
+          }
+        }
+      }
+    },
+    "NoButton" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nein"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No"
+          }
+        }
+      }
+    },
+    "Non-Monitored AEDs" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AEDs ohne Überwachung"
+          }
+        }
+      }
+    },
+    "None" : {
+
+    },
+    "None Open" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keine geöffnet"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "None Open"
+          }
+        }
+      }
+    },
+    "Normal/Default priority" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Normal/Standard Priorität"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Normal/Default priority"
+          }
+        }
+      }
+    },
+    "Not Activated" : {
+
+    },
+    "Not monitored" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nicht überwacht"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Not monitored"
+          }
+        }
+      }
+    },
+    "Notification center" : {
+      "comment" : "Menu",
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Benachrichtigungszentrum"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Notification center"
+          }
+        }
+      }
+    },
+    "Number" : {
+
+    },
+    "OK" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
+          }
+        }
+      }
+    },
+    "Old Password" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Altes Passwort"
+          }
+        }
+      }
+    },
+    "Only 3 images are allowed." : {
+
+    },
+    "Open 24/7" : {
+
+    },
+    "Open AED" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AED anzeigen"
+          }
+        }
+      }
+    },
+    "Open Dashboard" : {
+
+    },
+    "Open Overview Page" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Übersichtsseite öffnen"
+          }
+        }
+      }
+    },
+    "Opening hours" : {
+      "comment" : "AD_16_LocationAvailabilityTimes",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Öffnungszeiten"
+          }
+        }
+      }
+    },
+    "Opening hours & photo" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Öffnungszeiten & Foto"
+          }
+        }
+      }
+    },
+    "Operating mode:" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Betriebsart:"
+          }
+        }
+      }
+    },
+    "Other" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Andere"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Other"
+          }
+        }
+      }
+    },
+    "Overdue" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Überfällig"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Overdue"
+          }
+        }
+      }
+    },
+    "Overdue / Warning" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Überfällig / Warnung"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Overdue / Warning"
+          }
+        }
+      }
+    },
+    "Overview" : {
+      "comment" : "AD_10_CardiaPairingCheck",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zusammenfassung"
+          }
+        }
+      }
+    },
+    "Owner" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eigentümer"
+          }
+        }
+      }
+    },
+    "Owner:" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eigentümer:"
+          }
+        }
+      }
+    },
+    "Package Dependencies" : {
+
+    },
+    "Package Dependencies:" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Paketabhängigkeiten:"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Package Dependencies:"
+          }
+        }
+      }
+    },
+    "Pads until" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elektroden bis"
+          }
+        }
+      }
+    },
+    "Paired" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PAIRED"
+          }
+        }
+      }
+    },
+    "Paired devices Information" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gekoppelte Geräte Informationen"
+          }
+        }
+      }
+    },
+    "Paired with" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pairing mit"
+          }
+        }
+      }
+    },
+    "Pairing failed.\nPlease try again." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pairing ist fehlgeschlagen.\nBitte versuchen Sie es erneut."
+          }
+        }
+      }
+    },
+    "Pairing HeartConnect" : {
+      "comment" : "AD_07_CardiaPairingOpenCover",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pairing HeartConnect"
+          }
+        }
+      }
+    },
+    "Pairing HearthConnect" : {
+
+    },
+    "Pairing not succesful" : {
+
+    },
+    "Pairing Successful" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pairing erfolgreich"
+          }
+        }
+      }
+    },
+    "Password" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Passwort"
+          }
+        }
+      }
+    },
+    "Password Updated" : {
+
+    },
+    "PBX" : {
+
+    },
+    "PCB Information" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PCB Informationen"
+          }
+        }
+      }
+    },
+    "Photograph(s)" : {
+
+    },
+    "Physio Control (now Stryker)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Physio Control (jetzt Stryker)"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Physio Control (now Stryker)"
+          }
+        }
+      }
+    },
+    "Pin clusters" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pin-Cluster"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pin clusters"
+          }
+        }
+      }
+    },
+    "Pin Information" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pin-Informationen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pin Information"
+          }
+        }
+      }
+    },
+    "Please activate the AED!" : {
+
+    },
+    "Please allow access to the camera" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bitte erlauben Sie den Zugriff auf die Kamera zum Scannen von Codes"
+          }
+        }
+      }
+    },
+    "Please check the data of the AED:" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bitte prüfen Sie die Daten zu dem AED:"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Please check the data of the AED:"
+          }
+        }
+      }
+    },
+    "Please close the cover of your AED!" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bitte schließen Sie den Deckel Ihres AED, um den Pairing-Prozess zu beenden!"
+          }
+        }
+      }
+    },
+    "Please double-check the serial number you've entered. It was not recognized. Make sure all details are correct and try again" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bitte überprüfen Sie die eingegebene Seriennummer noch einmal. Sie wurde nicht erkannt. Stellen Sie sicher, dass alle Angaben korrekt sind und versuchen Sie es erneut."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Please double-check the serial number you've entered. It was not recognized. Make sure all details are correct and try again"
+          }
+        }
+      }
+    },
+    "Please enter a value" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bitte geben Sie einen Wert ein"
+          }
+        }
+      }
+    },
+    "Please enter AED serial number" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bitte geben Sie die Seriennummer des AED ein."
+          }
+        }
+      }
+    },
+    "Please enter AED serial number (5 or 6 digits)" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bitte geben Sie die Serienummer des AED (5 oder 6 Ziffern) ein"
+          }
+        }
+      }
+    },
+    "Please enter at least 5 numbers!" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bitte geben Sie mindestens 5 Zahlen ein!"
+          }
+        }
+      }
+    },
+    "Please enter at least 9 numbers!" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bitte geben Sie mindestens 9 Zahlen ein!"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Please enter at least 9 numbers!"
+          }
+        }
+      }
+    },
+    "Please enter the AED Serial number" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bitte die AED Seriennummer eingeben"
+          }
+        }
+      }
+    },
+    "Please enter the pin" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bitte geben Sie den Pin ein"
+          }
+        }
+      }
+    },
+    "Please have a paper clip or similar ready" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bitte halten Sie eine Büroklammer o.ä. bereit"
+          }
+        }
+      }
+    },
+    "Please make sure the passwords match" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bitte stellen Sie sicher, dass die Passwörter übereinstimmen"
+          }
+        }
+      }
+    },
+    "Please make sure you have entered the correct login information or make sure you have selected a portal." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bitte vergewissern Sie sich, dass Sie die richtigen Anmeldeinformationen eingegeben haben bzw. dass Sie ein Portal ausgewählt haben."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Please make sure you have entered the correct login information or make sure you have selected a portal."
+          }
+        }
+      }
+    },
+    "Please make sure your bluetooth is turned on and check if the app has permission to use it." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bitte stellen Sie sicher, dass Ihr Bluetooth eingeschaltet ist und überprüfen Sie, ob die App die Berechtigung hat, es zu verwenden."
+          }
+        }
+      }
+    },
+    "Please open the cover of your AED to activate the pairing mode" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bitte öffnen Sie den Deckel Ihres AED, um den Pairing-Modus zu aktivieren."
+          }
+        }
+      }
+    },
+    "Please provide accurate information in the following fields." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bitte machen Sie genaue Angaben in den folgenden Feldern."
+          }
+        }
+      }
+    },
+    "Please select operating mode:" : {
+
+    },
+    "Please try again" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bitte versuche es erneut"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Please try again"
+          }
+        }
+      }
+    },
+    "Please visit the online portal to get a new password or use the below ITSM link" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bitte besuchen Sie das Online-Portal, um ein neues Passwort zu erhalten, oder verwenden Sie den unten stehenden ITSM-Link."
+          }
+        }
+      }
+    },
+    "Please wait" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bitte warten"
+          }
+        }
+      }
+    },
+    "Please wait." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bitte warten."
+          }
+        }
+      }
+    },
+    "Poor" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Schwach"
+          }
+        }
+      }
+    },
+    "Portal select" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Portal auswählen"
+          }
+        }
+      }
+    },
+    "Postal Code" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Postleitzahl"
+          }
+        }
+      }
+    },
+    "Postal Code:" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Postleitzahl:"
+          }
+        }
+      }
+    },
+    "Prepare the Heart Connect II for connecting" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Heart Connect II für die Einrichtung vorbereiten"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prepare the Heart Connect II for connecting"
+          }
+        }
+      }
+    },
+    "Prepare the HeartConnect for connecting" : {
+      "comment" : "AD_06_OnboardingPreSerial",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aktivieren Sie nun den Pairing-Modus des HeartConnect."
+          }
+        }
+      }
+    },
+    "Press and hold down the indication button by using a paper clip or a similar tool for longer than seven seconds until the yellow LED light starts blinking" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Drücken und halten Sie den Knopf mit einer Büroklammer oder einem ähnlichen Werkzeug länger als sieben Sekunden gedrückt, bis die gelbe LED-Leuchte zu blinken beginnt."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Press and hold down the indication button by using a paper clip or a similar tool for longer than seven seconds until the yellow LED light starts blinking"
+          }
+        }
+      }
+    },
+    "Priority" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Priorität"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Priority"
+          }
+        }
+      }
+    },
+    "Privacy statement" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Datenschutzerklärung"
+          }
+        }
+      }
+    },
+    "Privacy Statement" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Datenschutzerklärung"
+          }
+        }
+      }
+    },
+    "Problem description" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Problembeschreibung"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Problem description"
+          }
+        }
+      }
+    },
+    "Production Date:" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Produktionsdatum:"
+          }
+        }
+      }
+    },
+    "Production Year" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Produktionsjahr"
+          }
+        }
+      }
+    },
+    "Public Availability" : {
+
+    },
+    "Publicize AED information?" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AED-Informationen veröffentlichen?"
+          }
+        }
+      }
+    },
+    "Radius:" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Radius:"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Radius:"
+          }
+        }
+      }
+    },
+    "Radius: " : {
+
+    },
+    "Radius: N/A" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Radius: N/A"
+          }
+        }
+      }
+    },
+    "Ready" : {
+
+    },
+    "RED" : {
+
+    },
+    "Red Error" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Roter Fehler"
+          }
+        }
+      }
+    },
+    "Red Errors:" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fehler:"
+          }
+        }
+      }
+    },
+    "Remember me" : {
+      "comment" : "Login",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anmeldedaten merken"
+          }
+        }
+      }
+    },
+    "Restart" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Neustart"
+          }
+        }
+      }
+    },
+    "returned the following results" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "lieferte die folgenden Ergebnisse"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "returned the following results"
+          }
+        }
+      }
+    },
+    "Retype Password" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Passwort erneut eingeben"
+          }
+        }
+      }
+    },
+    "Satellite" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Satellit"
+          }
+        }
+      }
+    },
+    "Saturday" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Samstag"
+          }
+        }
+      }
+    },
+    "Save" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Speichern"
+          }
+        }
+      }
+    },
+    "Save New Password" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Neues Passwort speichern"
+          }
+        }
+      }
+    },
+    "Saving in progress..." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Speichern läuft..."
+          }
+        }
+      }
+    },
+    "Scan barcode" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Barcode scannen"
+          }
+        }
+      }
+    },
+    "Scan Barcode" : {
+      "comment" : "AD_031_CardiaSerial_ScannerView",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Barcode scannen"
+          }
+        }
+      }
+    },
+    "Scanning is performed automatically" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Das Scannen erfolgt automatisch"
+          }
+        }
+      }
+    },
+    "Search" : {
+
+    },
+    "Search Results" : {
+      "comment" : "Search",
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Suchergebnisse"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Search Results"
+          }
+        }
+      }
+    },
+    "Search your address by street, house no. & city" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Suchen Sie die Adresse mit Straße, Hausnummer & Ort"
+          }
+        }
+      }
+    },
+    "Select Day(s)" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tag(e) auswählen"
+          }
+        }
+      }
+    },
+    "Select Time" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zeit auswählen"
+          }
+        }
+      }
+    },
+    "Self test" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Selbsttest"
+          }
+        }
+      }
+    },
+    "Self Test Result:" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Selbsttestergebnis:"
+          }
+        }
+      }
+    },
+    "Self Tests" : {
+      "comment" : "Self Tests",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Selbsttests"
+          }
+        }
+      }
+    },
+    "Semi Automatic" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Halbautomat"
+          }
+        }
+      }
+    },
+    "Send push navigation for:" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Push-Navigation senden für:"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Send push navigation for:"
+          }
+        }
+      }
+    },
+    "Serial Number:" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seriennummer:"
+          }
+        }
+      }
+    },
+    "Service" : {
+      "comment" : "Menu",
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Service"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Service"
+          }
+        }
+      }
+    },
+    "Service Ticket Number" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Service-Ticket-Nummer"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Service Ticket Number"
+          }
+        }
+      }
+    },
+    "Service Tickets" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Service-Tickets"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Service Tickets"
+          }
+        }
+      }
+    },
+    "Settings" : {
+      "comment" : "Overview page",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Einstellungen"
+          }
+        }
+      }
+    },
+    "Show times" : {
+
+    },
+    "Signal quality:" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Signalqualität:"
+          }
+        }
+      }
+    },
+    "Signal Strength" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Signalstärke"
+          }
+        }
+      }
+    },
+    "Signal strength:" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Signalstärke:"
+          }
+        }
+      }
+    },
+    "Signal Strength:" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Signalstärke:"
+          }
+        }
+      }
+    },
+    "SIM Card" : {
+      "comment" : "Communicators menu",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SIM Karte"
+          }
+        }
+      }
+    },
+    "SIM card Id:" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SIM-Karten-ID:"
+          }
+        }
+      }
+    },
+    "SIM Card Information" : {
+      "comment" : "SIM Card",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SIM-Karten-Information"
+          }
+        }
+      }
+    },
+    "SIM Id: " : {
+
+    },
+    "since" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "seit"
+          }
+        }
+      }
+    },
+    "Since:" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seit:"
+          }
+        }
+      }
+    },
+    "Skip" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "auslassen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skip"
+          }
+        }
+      }
+    },
+    "Slide Left to Delete" : {
+
+    },
+    "Standard" : {
+      "comment" : "Map",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Standard"
+          }
+        }
+      }
+    },
+    "State" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Staat"
+          }
+        }
+      }
+    },
+    "Status" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Status"
+          }
+        }
+      }
+    },
+    "Status of your AED" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Status des AED"
+          }
+        }
+      }
+    },
+    "Street" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Strasse"
+          }
+        }
+      }
+    },
+    "Street:" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Straße:"
+          }
+        }
+      }
+    },
+    "Success" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erfolg"
+          }
+        }
+      }
+    },
+    "Summary" : {
+      "comment" : "AD_21_EndOverview"
+    },
+    "Sunday" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sonntag"
+          }
+        }
+      }
+    },
+    "Suspended" : {
+
+    },
+    "SwiftyJSON" : {
+
+    },
+    "Switch to 24/7" : {
+
+    },
+    "Synced" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SYNCED"
+          }
+        }
+      }
+    },
+    "Telegram:" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Telegram:"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Telegram:"
+          }
+        }
+      }
+    },
+    "Telephone" : {
+
+    },
+    "Telephone:" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Telefon:"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Telephone:"
+          }
+        }
+      }
+    },
+    "Terminated" : {
+
+    },
+    "Test" : {
+
+    },
+    "Test Information" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Testinformation"
+          }
+        }
+      }
+    },
+    "Thank you! The data for" : {
+      "comment" : "\"with a Heart Connect\" = \"is updated!\";",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vielen Dank! Die Daten"
+          }
+        }
+      }
+    },
+    "The AED serial number is successfully verified." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Die AED-Seriennummer wurde erfolgreich überprüft."
+          }
+        }
+      }
+    },
+    "The Heart Connect II is already prepared for connecting." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Das Heart Connect II ist für die Einrichtung vorbereitet."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Heart Connect II is already prepared for connecting."
+          }
+        }
+      }
+    },
+    "The pairing with the AED failed. Please try it again" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Das Pairing ist fehlgeschlagen. Bitte erneut versuchen."
+          }
+        }
+      }
+    },
+    "There are no known GPS coordinates for this defibrillator" : {
+
+    },
+    "This AED" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dieser AED"
+          }
+        }
+      }
+    },
+    "This AED is avaialble from" : {
+
+    },
+    "This AED is avaialble to" : {
+
+    },
+    "Thursday" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Donnerstag"
+          }
+        }
+      }
+    },
+    "tickets" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "tickets"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "tickets"
+          }
+        }
+      }
+    },
+    "till" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "bis"
+          }
+        }
+      }
+    },
+    "till %@" : {
+
+    },
+    "Timeout" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Time-out"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Timeout"
+          }
+        }
+      }
+    },
+    "To" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bis"
+          }
+        }
+      }
+    },
+    "To get more detailed information you can click on a pointer, it will show the AED number and the owner" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Um detailliertere Informationen zu erhalten, können Sie auf einen Zeiger klicken, der die AED-Nummer und den Eigentümer anzeigt"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "To get more detailed information you can click on a pointer, it will show the AED number and the owner"
+          }
+        }
+      }
+    },
+    "To use this feature, we need access to your location. Please change your settings." : {
+
+    },
+    "Transmission attempts" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Versuche"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Attempts"
+          }
+        }
+      }
+    },
+    "Trying to connect..." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Versuche zu verbind."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trying to connect..."
+          }
+        }
+      }
+    },
+    "Tuesday" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dienstag"
+          }
+        }
+      }
+    },
+    "Type:" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Typ:"
+          }
+        }
+      }
+    },
+    "Unavailable" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nicht verfügbar"
+          }
+        }
+      }
+    },
+    "Uncritical" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unkritisch"
+          }
+        }
+      }
+    },
+    "Unfortunately the pairing was not successful.\n\nBefore we do it again please **close the cover of your AED.** \n\nDo you want to restart the pairing? " : {
+
+    },
+    "Unknown" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unbekannt"
+          }
+        }
+      }
+    },
+    "Unknown AED" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unbekannter AED"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unknown AED"
+          }
+        }
+      }
+    },
+    "Unknown Heart Connect" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unbekannter Heart Connect"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unknown Heart Connect"
+          }
+        }
+      }
+    },
+    "UnsavedChangesMessage" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sind Sie sicher, dass Sie den 'AED hinzufügen' Vorgang beenden möchten?"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Are you sure you want to exit the 'Add AED' process?"
+          }
+        }
+      }
+    },
+    "UnsavedChangesTitle" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ungespeicherte Änderungen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unsaved Changes"
+          }
+        }
+      }
+    },
+    "Update AED" : {
+
+    },
+    "Update with GPS" : {
+
+    },
+    "Update with opening hours" : {
+
+    },
+    "Use the paper clip to press and hold the indication button for 7 seconds until the LED light on the HeartConnect starts blinking." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Drücken Sie den Schalter **(1)** mit der Büroklammer für ***7 Sekunden***, bis die LED-Leuchte am HeartConnect **(2)** zu blinken beginnt."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Use the paper clip to press and hold the indication button **(1)** for ***7 seconds*** until the LED light on the HeartConnect **(2)** starts blinking."
+          }
+        }
+      }
+    },
+    "User Information" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Benutzerinformationen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "User Information"
+          }
+        }
+      }
+    },
+    "User profile" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Benutzerprofil"
+          }
+        }
+      }
+    },
+    "UserID" : {
+
+    },
+    "Voltage:" : {
+
+    },
+    "Warning" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Warnung"
+          }
+        }
+      }
+    },
+    "Warnings:" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Warnungen:"
+          }
+        }
+      }
+    },
+    "We have also introduced two extra types of maps, Hybrid and Satellite. If you want to view this onboarding again, go to the dashboard, select About, go to settings and flip the switch." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wir haben auch zwei zusätzliche Arten von Karten eingeführt, Hybrid und Satellit. Wenn Sie dieses Onboarding erneut anzeigen möchten, gehen Sie zum Dashboard, wählen Sie Info, gehen Sie zu den Einstellungen und legen Sie den Schalter um."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "We have also introduced two extra types of maps, Hybrid and Satellite. If you want to view this onboarding again, go to the dashboard, select About, go to settings and flip the switch."
+          }
+        }
+      }
+    },
+    "We have automatically detected the following location." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wir haben folgenden Standort automatisch ermittelt:"
+          }
+        }
+      }
+    },
+    "We have introduced pin clusters, pinch and zoom (out or in) will cluster or un-cluster a amount of pins that are in close reach of each other, resulting is a cleaner look and feel" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wir haben Pin-Cluster eingeführt, Pinch und Zoom (heraus oder hinein) werden eine Menge von Pins gruppieren oder entclustern, die sich in unmittelbarer Nähe zueinander befinden, was zu einem saubereren Erscheinungsbild führt"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "We have introduced pin clusters, pinch and zoom (out or in) will cluster or un-cluster a amount of pins that are in close reach of each other, resulting is a cleaner look and feel"
+          }
+        }
+      }
+    },
+    "We have updated our map architecture to have better performance, less clutter and a updated user experience" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wir haben unsere Kartenarchitektur aktualisiert, um eine bessere Leistung, weniger Unordnung und eine aktualisierte Benutzererfahrung zu erzielen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "We have updated our map architecture to have better performance, less clutter and a updated user experience"
+          }
+        }
+      }
+    },
+    "We're unable to confirm your AED serial number at the moment, but we'll keep trying." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wir sind nicht in der Lage, Ihre AED-Seriennummer zu überprüfen; werden es jedoch weiter versuchen."
+          }
+        }
+      }
+    },
+    "Wednesday" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mittwoch"
+          }
+        }
+      }
+    },
+    "What do you want to do next?" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Was möchten Sie als nächstes tun?"
+          }
+        }
+      }
+    },
+    "Would you like to log in again for a fresh session or continue with the current session?" : {
+
+    },
+    "Yearly" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yearly"
+          }
+        }
+      }
+    },
+    "Yes" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ja"
+          }
+        }
+      }
+    },
+    "YES" : {
+
+    },
+    "YesButton" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ja"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yes"
+          }
+        }
+      }
+    },
+    "You have made the following selection." : {
+      "comment" : "AD_17_LocationAvailabilityTimesOverview",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sie haben die folgende Auswahl getroffen."
+          }
+        }
+      }
+    },
+    "You have reached a ☠️ DEAD END" : {
+
+    },
+    "Your AED is available 24/7" : {
+
+    },
+    "Your Email / User ID" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ihre E-Mailadresse / Benutzer-ID"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your Email / User ID"
+          }
+        }
+      }
+    },
+    "Your password contains illegal characters (#, +, &)." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ihr Passwort enthält unzulässige Zeichen (#, +, &)."
+          }
+        }
+      }
+    },
+    "Your search for" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deine Suche nach"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your search for"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
